@@ -61,4 +61,35 @@ psql -d gis -c 'CREATE EXTENSION postgis; CREATE EXTENSION hstore;'
 
 
 
+## Resources
+
+Here's some GIS links I've found useful so far.
+
+
+[GTFS for Roanoke](http://www.gtfs-data-exchange.com/agency/valley-metro/): we'll need to listen to updates for the Roanoke GTFS
+  file
+
+Somehow, we'll need to convert the GTFS Route Stops into GPX format. We
+might be able to use [gtfs-osm-sync](https://github.com/CUTR-at-USF/gtfs-osm-sync)
+
+[OpenStreetMaps(OSM)](https://www.openstreetmap.org/) transit layer to generate a vanilla base map to
+  draw on 
+
+[Track Drawing Services](https://github.com/conveyal/transitive.js) listed on OSM's wiki.
+
+[LeafletJS](http://leafletjs.com/) to draw on a map from OpenStreetMaps. Uses OpenLayers under
+  the hood.
+
+[TransitiveJS](https://github.com/conveyal/transitive.js) which provides prettified transits lines drawn on top of a LeafletJS map.
+
+[OpenLayers](http://openlayers.org/) can pull map tile images from OpenStreetMaps. 
+
+[Overpass API](https://github.com/drolbr/Overpass-API) query OpenStreetMaps data
+
+[GPS Visualizer](http://www.gpsvisualizer.com/) is an online tool that can convert lists of GPS points
+  to the GPX track format.  Not sure how useful this will be for us.
+
+
+
+
 
