@@ -1940,7 +1940,8 @@ KmlMapParser.prototype = {
   * getRandomColor
   */
   getRandomColor : function(){
-      return  '#' + Math.round(0xffffff * Math.random()).toString(16);
+      random = Math.random();
+      return  '#' + Math.round(0xffffff * random).toString(16);
   },
 
 
