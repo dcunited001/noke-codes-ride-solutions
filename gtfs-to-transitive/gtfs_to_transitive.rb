@@ -40,12 +40,34 @@ module GtfsToTransitive
       attr_accessor :route, :stop_times
     end
 
+    def pattern_name
+      route.long_name.present? ? route.long_name : route.short_name
+    end
+
+    def to_segment
+      Jbuilder.new do |json|
+        json.type 'TRANSIT'
+        json.pattern_id id
+        json.from_stop_index stop_times.first.stop_sequence
+        json.to_stop_index stop_times.last.stop_sequence
+      end
+    end
+
+    def to_journey
+      Jbuilder.new do |json|
+        json.journey_id id
+        json.journey_name pattern_name
+        json.segments [self.to_segment.attributes!]
+      end
+    end
+
     def to_builder
       Jbuilder.new do |trip|
         trip.stop_times stop_times.map(&:to_builder).map(&:attributes!)
-        trip.pattern_id service_id
-        trip.pattern_name route.long_name
-        trip.route_id route.short_name
+        trip.service_id service_id
+        trip.pattern_id id
+        trip.pattern_name pattern_name
+        trip.route_id route.id
       end
     end
   end

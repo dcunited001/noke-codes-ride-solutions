@@ -34,6 +34,7 @@ namespace :gtfs do
       json.stops source.stops.map(&:to_builder).map(&:attributes!)
       json.routes source.routes.map(&:to_builder).map(&:attributes!)
       json.patterns source.trips.map(&:to_builder).map(&:attributes!)
+      json.journeys source.trips.map(&:to_journey).map(&:attributes!)
     end
 
     File.open(filename, 'w').write("module.exports = #{json};")
