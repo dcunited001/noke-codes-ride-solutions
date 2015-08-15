@@ -1,0 +1,42 @@
+require 'bundler'
+Bundler.require
+
+require './gtfs_to_transitive'
+
+namespace :gtfs do
+
+  task :translate do
+    url = ENV['GTFS_URL'] || 'http://data.trilliumtransit.com/gtfs/roanoke-va-us/roanoke-va-us.zip'
+    filename = ENV['GTFS_JSON_FILENAME'] || 'transitive-data.json'
+    source = GTFS::Source.build(url, {strict: false})
+
+    routes_by_id = source.routes.reduce({}) do |memo, route|
+      memo[route.id] = route
+      memo
+    end
+
+    stop_times_by_trip_id = source.stop_times.reduce({}) do |memo, st|
+      memo[st.trip_id] ||= []
+      memo[st.trip_id] << st
+      memo
+    end.reduce({}) do |memo, (trip_id, stop_times)|
+      # ensure stop times are sorted for each trip
+      memo[trip_id] = stop_times.sort_by {|st| st.stop_sequence.to_i }
+      memo
+    end
+
+    source.trips.each do |trip|
+      trip.route = routes_by_id[trip.route_id]
+      trip.stop_times = stop_times_by_trip_id[trip.id]
+    end
+
+    json = Jbuilder.encode do |json|
+      json.stops source.stops.map(&:to_builder).map(&:attributes!)
+      json.routes source.routes.map(&:to_builder).map(&:attributes!)
+      json.patterns source.trips.map(&:to_builder).map(&:attributes!)
+    end
+
+    File.open(filename, 'w').write(json)
+  end
+
+end
