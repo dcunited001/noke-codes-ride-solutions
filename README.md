@@ -66,6 +66,8 @@ psql -d gis -c 'CREATE EXTENSION postgis; CREATE EXTENSION hstore;'
 Here's some GIS links I've found useful so far.
 
 
+[Conveyal Open Source Tools](https://github.com/conveyal/): read more about it on their [blog](http://conveyal.com/)
+
 [GTFS for Roanoke](http://www.gtfs-data-exchange.com/agency/valley-metro/): we'll need to listen to updates for the Roanoke GTFS
   file
 
