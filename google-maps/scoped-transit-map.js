@@ -34,9 +34,15 @@ function initMap() {
 
   var map = new google.maps.Map(document.getElementById('map'), mapOptions);
 
-  var transitLayer = new google.maps.TransitLayer();
-  transitLayer.setMap(map);
+  // var transitLayer = new google.maps.TransitLayer();
+  // transitLayer.setMap(map);
 
   map.mapTypes.set('map_style', styledMap);
   map.setMapTypeId('map_style');
+
+  var RouteLayer = new google.maps.KmlLayer({
+    url: 'https://raw.githubusercontent.com/dcunited001/noke-codes-ride-solutions/master/google-maps/roanoke-va-us-archiver_20150214_0144.kml',
+    map: map
+  });
+  console.log(RouteLayer);
 }
