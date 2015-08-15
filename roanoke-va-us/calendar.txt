@@ -1,0 +1,24 @@
+service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+462A2278,"Year-round service (Mon-Fri)",1,1,1,1,1,0,0,20130101,20160101
+463A2278,"Year-round service (Mon-Sat)",1,1,1,1,1,1,0,20130101,20160101
+475A2277,"Year Round Service (Mon-Fri)",1,1,1,1,1,0,0,20141118,20160101
+479A2277,"Year Round Service (Sat)",0,0,0,0,0,1,0,20141118,20160101
+481A2276,"Ferrum Express Schedule  (Thur-Fri)",0,0,0,1,1,0,0,20141118,20160101
+482A2276,"Ferrum Express Schedule  (Sat)",0,0,0,0,0,1,0,20141118,20160101
+483A2265,"Hollins Express  (Wed-Thur)",0,0,1,1,0,0,0,20140901,20150531
+484A2265,"Hollins Express  (Fri)",0,0,0,0,1,0,0,20140901,20150531
+485A2265,"Hollins Express  (Sat)",0,0,0,0,0,1,0,20140901,20150531
+527A2278,"Year-round service (Mon-Sat)",1,1,1,1,1,1,0,20130101,20160101
+536A2278,"Year-round service (Mon-Fri)",1,1,1,1,1,0,0,20130101,20160101
+537A2278,"Year-round service (Sat)",0,0,0,0,0,1,0,20130101,20160101
+539A2278,"Year-round service (Fri-Sat)",0,0,0,0,1,1,0,20130101,20160101
+589A2278,"Year-round service (Mon-Thur)",1,1,1,1,0,0,0,20130101,20160101
+590A2278,"Year-round service (Fri)",0,0,0,0,1,0,0,20130101,20160101
+591A2278,"Year-round service (Sun)",0,0,0,0,0,0,1,20130101,20160101
+619A2278,"Year-round service (Mon-Sat)",1,1,1,1,1,1,0,20130101,20160101
+620A2278,"Year-round service (Mon-Sat)",1,1,1,1,1,1,0,20130101,20160101
+622A2278,"Year-round service (Mon-Sat)",1,1,1,1,1,1,0,20130101,20160101
+623A2278,"Year-round service (Mon-Sat)",1,1,1,1,1,1,0,20130101,20160101
+627A2278,"Year-round service (Sat)",0,0,0,0,0,1,0,20130101,20160101
+1224A2265,"Hollins Express  (Thur-Fri)",0,0,0,1,1,0,0,20140901,20150531
+1225A2265,"Hollins Express  (Sat)",0,0,0,0,0,1,0,20140901,20150531

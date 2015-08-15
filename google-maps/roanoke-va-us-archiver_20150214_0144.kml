@@ -1,55 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.1">
   <Document>
-    <Style id="route_954">
-      <LineStyle>
-        <color>ffff0000</color>
-        <width>4</width>
-      </LineStyle>
-    </Style>
-    <Style id="route_933">
-      <LineStyle>
-        <color>ff0000ff</color>
-        <width>4</width>
-      </LineStyle>
-    </Style>
-    <Style id="route_808">
-      <LineStyle>
-        <color>ff009900</color>
-        <width>4</width>
-      </LineStyle>
-    </Style>
-    <Style id="orangeLine">
-      <LineStyle>
-        <color>ff00ccff</color>
-        <width>4</width>
-      </LineStyle>
-    </Style>
-    <Style id="pinkLine">
-      <LineStyle>
-        <color>ffff33ff</color>
-        <width>4</width>
-      </LineStyle>
-    </Style>
-    <Style id="brownLine">
-      <LineStyle>
-        <color>ff66a1cc</color>
-        <width>4</width>
-      </LineStyle>
-    </Style>
-    <Style id="purpleLine">
-      <LineStyle>
-        <color>ffcc00cc</color>
-        <width>4</width>
-      </LineStyle>
-    </Style>
-    <Style id="yellowLine">
-      <LineStyle>
-        <color>ff61f2f2</color>
-        <width>4</width>
-      </LineStyle>
-    </Style>
-
     <open>1</open>
     <Folder>
       <name>Stops</name>
