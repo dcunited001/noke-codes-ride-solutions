@@ -40,17 +40,30 @@ function initMap() {
   map.mapTypes.set('map_style', styledMap);
   map.setMapTypeId('map_style');
 
+  ShapesLayer = new google.maps.KmlLayer({
+      url: 'https://raw.githubusercontent.com/dcunited001/noke-codes-ride-solutions/master/google-maps/shapes.kml',
+      clickable: false,
+      preserveViewport: true,
+      suppressInfoWindows: true,
+      screenOverlays: false
+  });
+
+  // pre-generated KMZ file of stops from GTFS feed
+  // *** needs to be full URL from your server - sample provided here
+  var StopsLayer = new google.maps.KmlLayer({
+      url: 'https://raw.githubusercontent.com/dcunited001/noke-codes-ride-solutions/master/google-maps/stops.kml',
+      clickable: true,
+      preserveViewport: true,
+      suppressInfoWindows: false,
+      screenOverlays: false
+  });
+
+  StopsLayer.setMap(map);
+  ShapesLayer.setMap(map);
+
   // var RouteLayer = new google.maps.KmlLayer({
   //   url: 'https://raw.githubusercontent.com/dcunited001/noke-codes-ride-solutions/master/google-maps/roanoke-va-us-archiver_20150214_0144.kml',
   //   map: map
   // });
-  // console.log(RouteLayer);
-
-  //https://code.google.com/p/kmlmapparser/
-  var xml = new KmlMapParser({ map: map,
-            kml: 'https://raw.githubusercontent.com/dcunited001/noke-codes-ride-solutions/master/google-maps/roanoke-va-us-archiver_20150214_0144.kml',
-            showImageShadow: false});
-  console.log(xml);
-  enableDragZoom();
 }
 
