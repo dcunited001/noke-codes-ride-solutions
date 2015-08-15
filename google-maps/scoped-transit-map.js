@@ -45,4 +45,9 @@ function initMap() {
     map: map
   });
   console.log(RouteLayer);
+
+  //https://code.google.com/p/kmlmapparser/
+  var xml = new KmlMapParser({ map: map, kml: 'https://raw.githubusercontent.com/dcunited001/noke-codes-ride-solutions/master/google-maps/roanoke-va-us-archiver_20150214_0144.kml'});
+  console.log(xml);
 }
+
