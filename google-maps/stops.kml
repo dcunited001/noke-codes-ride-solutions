@@ -1,0 +1,3894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Placemark>
+<name>stop_id</name>
+<description>stop_code stop_name</description>
+<Point><coordinates>stop_lat,stop_desc,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>27140</name>
+<description> Fresno NB at Florida</description>
+</Placemark>
+<Placemark>
+<name>27145</name>
+<description> Westside SB at Densmore</description>
+</Placemark>
+<Placemark>
+<name>27645</name>
+<description> Harrison EB at 5th</description>
+</Placemark>
+<Placemark>
+<name>27559</name>
+<description> Florida SB at Fresno</description>
+</Placemark>
+<Placemark>
+<name>27535</name>
+<description> Gainsboro SB at Madison</description>
+</Placemark>
+<Placemark>
+<name>27752</name>
+<description> Jefferson SB at Highland</description>
+</Placemark>
+<Placemark>
+<name>27759</name>
+<description> Carilion Clinic - Riverside</description>
+</Placemark>
+<Placemark>
+<name>27584</name>
+<description> Melrose WB at Victoria</description>
+</Placemark>
+<Placemark>
+<name>26855</name>
+<description> 10th NB at Greenhurst</description>
+</Placemark>
+<Placemark>
+<name>26893</name>
+<description> Towne Square WB at Rutgers (Golden Corral)</description>
+</Placemark>
+<Placemark>
+<name>27577</name>
+<description> Melrose EB at 23rd</description>
+</Placemark>
+<Placemark>
+<name>27411</name>
+<description> King SB at Orange</description>
+</Placemark>
+<Placemark>
+<name>27105</name>
+<description> Melrose WB at 18th</description>
+</Placemark>
+<Placemark>
+<name>26833</name>
+<description> King NB at Vinton Mill</description>
+</Placemark>
+<Placemark>
+<name>26815</name>
+<description> Valley View Ring Road SB at Lewis Gale Clinic</description>
+</Placemark>
+<Placemark>
+<name>27098</name>
+<description> Gilmer WB at 4th</description>
+</Placemark>
+<Placemark>
+<name>22248</name>
+<description> Locust Ave.</description>
+</Placemark>
+<Placemark>
+<name>26881</name>
+<description> Hollins NB at Old Mountain</description>
+</Placemark>
+<Placemark>
+<name>27640</name>
+<description> East Main WB at College</description>
+</Placemark>
+<Placemark>
+<name>27405</name>
+<description> King NB at Atherly</description>
+</Placemark>
+<Placemark>
+<name>27532</name>
+<description> Liberty SB at Dupree (Lincoln Terrace Elementary)</description>
+</Placemark>
+<Placemark>
+<name>27294</name>
+<description> Jefferson NB at Luck</description>
+</Placemark>
+<Placemark>
+<name>27312</name>
+<description> 26th EB at Carolina</description>
+</Placemark>
+<Placemark>
+<name>27330</name>
+<description> Franklin NB at Kmart Shopping Center Driveway</description>
+</Placemark>
+<Placemark>
+<name>27033</name>
+<description> Grandin NB at Avenel (Patrick Henry High School)</description>
+</Placemark>
+<Placemark>
+<name>27339</name>
+<description> 9th NB at Highland (CVS)</description>
+</Placemark>
+<Placemark>
+<name>27598</name>
+<description> East Main EB at Lakeside Plaza</description>
+</Placemark>
+<Placemark>
+<name>26805</name>
+<description> Hershberger EB at Williamson (Shell station)</description>
+</Placemark>
+<Placemark>
+<name>26878</name>
+<description> Hollins SB at Liberty</description>
+</Placemark>
+<Placemark>
+<name>27210</name>
+<description> Memorial EB at Oxford</description>
+</Placemark>
+<Placemark>
+<name>26781</name>
+<description> Cove SB at Routt</description>
+</Placemark>
+<Placemark>
+<name>27626</name>
+<description> Gainsboro SB at Loudon</description>
+</Placemark>
+<Placemark>
+<name>27434</name>
+<description> Tazewell EB at 8 1/2</description>
+</Placemark>
+<Placemark>
+<name>27466</name>
+<description> Hershberger EB at Williamson (CVS)</description>
+</Placemark>
+<Placemark>
+<name>27057</name>
+<description> Brandon WB at The Ridge Apartments</description>
+</Placemark>
+<Placemark>
+<name>27660</name>
+<description> Granby NB at Mary Linda</description>
+</Placemark>
+<Placemark>
+<name>27590</name>
+<description> Melrose EB at Van Buren</description>
+</Placemark>
+<Placemark>
+<name>27269</name>
+<description> Brambleton NB at Spring</description>
+</Placemark>
+<Placemark>
+<name>27276</name>
+<description> Franklin NB at Reserve</description>
+</Placemark>
+<Placemark>
+<name>22216</name>
+<description> Kroger - Clifton Woods Apts</description>
+</Placemark>
+<Placemark>
+<name>27571</name>
+<description> Melrose EB at 12th</description>
+</Placemark>
+<Placemark>
+<name>27319</name>
+<description> Avenham NB at Clydesdale/White Oak</description>
+</Placemark>
+<Placemark>
+<name>27537</name>
+<description> Gilmer EB at Gainsboro</description>
+</Placemark>
+<Placemark>
+<name>27376</name>
+<description> Virginia EB at 3rd</description>
+</Placemark>
+<Placemark>
+<name>28047</name>
+<description> VT Squires Student Center</description>
+</Placemark>
+<Placemark>
+<name>27188</name>
+<description> Roanoke Blvd WB at Arch</description>
+</Placemark>
+<Placemark>
+<name>27522</name>
+<description> Greenland NB at Northminster</description>
+</Placemark>
+<Placemark>
+<name>22222</name>
+<description> Dept. Social Services - Rosedale Ave.</description>
+</Placemark>
+<Placemark>
+<name>27162</name>
+<description> West Main WB at Maple</description>
+</Placemark>
+<Placemark>
+<name>27459</name>
+<description> Plantation SB at Hollins/John Richardson (opposite Food Lion Driveway)</description>
+</Placemark>
+<Placemark>
+<name>27468</name>
+<description> Airport NB at Nelms (opposite Skyline College)</description>
+</Placemark>
+<Placemark>
+<name>27229</name>
+<description> Brandon EB at Ferguson Bath Kitchen &amp; Lighting Showroom</description>
+</Placemark>
+<Placemark>
+<name>758781</name>
+<description> Washington EB at River Park Shopping Center Driveway</description>
+</Placemark>
+<Placemark>
+<name>26926</name>
+<description> Bennington NB at Dundee</description>
+</Placemark>
+<Placemark>
+<name>27502</name>
+<description> Cove SB at Fairland</description>
+</Placemark>
+<Placemark>
+<name>27084</name>
+<description> Shenandoah WB at 36th/Beech</description>
+</Placemark>
+<Placemark>
+<name>27416</name>
+<description> Orange WB east of 24th (opposite car wash)</description>
+</Placemark>
+<Placemark>
+<name>27513</name>
+<description> Ferncliff SB at Hoback</description>
+</Placemark>
+<Placemark>
+<name>28048</name>
+<description> Roanoke Civic Center</description>
+</Placemark>
+<Placemark>
+<name>760907</name>
+<description> Colonial NB at Brandon</description>
+</Placemark>
+<Placemark>
+<name>26892</name>
+<description> Towne Square WB at Office Max</description>
+</Placemark>
+<Placemark>
+<name>27490</name>
+<description> Harrison EB at 2nd</description>
+</Placemark>
+<Placemark>
+<name>27388</name>
+<description> Hardy WB at Bypass (CVS)</description>
+</Placemark>
+<Placemark>
+<name>26924</name>
+<description> King Charles SB at Pike</description>
+</Placemark>
+<Placemark>
+<name>27345</name>
+<description> 9th NB at Buena Vista (7-11)</description>
+</Placemark>
+<Placemark>
+<name>26884</name>
+<description> Plantation NB at Columbia/Preston</description>
+</Placemark>
+<Placemark>
+<name>27442</name>
+<description> Kimball SB at McDowell</description>
+</Placemark>
+<Placemark>
+<name>27401</name>
+<description> Washington WB at Mountain View</description>
+</Placemark>
+<Placemark>
+<name>27406</name>
+<description> King NB at Glade View</description>
+</Placemark>
+<Placemark>
+<name>26920</name>
+<description> New Spring Branch SB at Tipton</description>
+</Placemark>
+<Placemark>
+<name>26848</name>
+<description> Gainsboro NB at Harrison (Our Lady of the Valley)</description>
+</Placemark>
+<Placemark>
+<name>27159</name>
+<description> East Main WB at Craig</description>
+</Placemark>
+<Placemark>
+<name>27494</name>
+<description> Madison EB at 10th</description>
+</Placemark>
+<Placemark>
+<name>26817</name>
+<description> Crossroads Shopping Center Driveway WB at Work Force/Kmart</description>
+</Placemark>
+<Placemark>
+<name>27647</name>
+<description> Peters Creek NB at Woodbridge</description>
+</Placemark>
+<Placemark>
+<name>27741</name>
+<description> Wells WB at Jefferson</description>
+</Placemark>
+<Placemark>
+<name>27045</name>
+<description> Memorial WB at Chesterfield</description>
+</Placemark>
+<Placemark>
+<name>27567</name>
+<description> Moorman EB at 9th</description>
+</Placemark>
+<Placemark>
+<name>27001</name>
+<description> Salem Avenue WB at 3rd</description>
+</Placemark>
+<Placemark>
+<name>27260</name>
+<description> Main NB at Kerns</description>
+</Placemark>
+<Placemark>
+<name>27365</name>
+<description> Kenwood WB at 14th</description>
+</Placemark>
+<Placemark>
+<name>26793</name>
+<description> Williamson NB at Liberty</description>
+</Placemark>
+<Placemark>
+<name>27281</name>
+<description> Colonial NB at 220S On-Ramp (The Roanoker)</description>
+</Placemark>
+<Placemark>
+<name>27652</name>
+<description> Tazewell WB at I-581 Bridge</description>
+</Placemark>
+<Placemark>
+<name>26934</name>
+<description> Jamison WB at 12th</description>
+</Placemark>
+<Placemark>
+<name>22179</name>
+<description> Comm. Serv./ Jail</description>
+</Placemark>
+<Placemark>
+<name>27412</name>
+<description> Orange WB at Hickory Woods</description>
+</Placemark>
+<Placemark>
+<name>27475</name>
+<description> Williamson SB at Clover</description>
+</Placemark>
+<Placemark>
+<name>27338</name>
+<description> Jamison WB at 8th St</description>
+</Placemark>
+<Placemark>
+<name>27189</name>
+<description> 4th Street WB at College</description>
+</Placemark>
+<Placemark>
+<name>26959</name>
+<description> 2nd SB at Church</description>
+</Placemark>
+<Placemark>
+<name>27425</name>
+<description> Wise WB at 18th</description>
+</Placemark>
+<Placemark>
+<name>27438</name>
+<description> Tazewell EB at 4th</description>
+</Placemark>
+<Placemark>
+<name>27599</name>
+<description> Salem EB at 4th</description>
+</Placemark>
+<Placemark>
+<name>26850</name>
+<description> Burrell NB at Douglass</description>
+</Placemark>
+<Placemark>
+<name>22219</name>
+<description> Richmond St. - Selma </description>
+</Placemark>
+<Placemark>
+<name>27257</name>
+<description> Main NB at Winona</description>
+</Placemark>
+<Placemark>
+<name>27556</name>
+<description> Aspen NB at Massachusetts</description>
+</Placemark>
+<Placemark>
+<name>27089</name>
+<description> Food Lion at Shenandoah and Peters Creek</description>
+</Placemark>
+<Placemark>
+<name>27344</name>
+<description> 9th NB at Morehead</description>
+</Placemark>
+<Placemark>
+<name>27595</name>
+<description> Melrose EB at Peck</description>
+</Placemark>
+<Placemark>
+<name>27163</name>
+<description> West Main WB at Valleydale</description>
+</Placemark>
+<Placemark>
+<name>26947</name>
+<description> Broadway WB at Avenham</description>
+</Placemark>
+<Placemark>
+<name>27511</name>
+<description> Ferncliff SB at William Fleming High School</description>
+</Placemark>
+<Placemark>
+<name>22247</name>
+<description> Catalpa Ave.</description>
+</Placemark>
+<Placemark>
+<name>26986</name>
+<description> Main SB at Windsor</description>
+</Placemark>
+<Placemark>
+<name>27380</name>
+<description> Virginia EB near Maple (at Car Dealerships)</description>
+</Placemark>
+<Placemark>
+<name>27455</name>
+<description> Plantation SB at Fleming</description>
+</Placemark>
+<Placemark>
+<name>27237</name>
+<description> Salem Avenue EB at 6th</description>
+</Placemark>
+<Placemark>
+<name>27400</name>
+<description> Washington WB at Meadow (Vinton Library)</description>
+</Placemark>
+<Placemark>
+<name>26982</name>
+<description> Elm WB at 8th</description>
+</Placemark>
+<Placemark>
+<name>27501</name>
+<description> Andrews EB at Cove</description>
+</Placemark>
+<Placemark>
+<name>26838</name>
+<description> Washington EB at Mountain View</description>
+</Placemark>
+<Placemark>
+<name>26883</name>
+<description> Plantation NB at Fleming</description>
+</Placemark>
+<Placemark>
+<name>27263</name>
+<description> Brambleton NB at Brandon</description>
+</Placemark>
+<Placemark>
+<name>22210</name>
+<description> Alleghany Regional Hospital</description>
+</Placemark>
+<Placemark>
+<name>26910</name>
+<description> 9th NB at River (Industrial Park)</description>
+</Placemark>
+<Placemark>
+<name>27148</name>
+<description> Melrose WB at Monroe</description>
+</Placemark>
+<Placemark>
+<name>27433</name>
+<description> Tazewell WB at 8 1/2</description>
+</Placemark>
+<Placemark>
+<name>26925</name>
+<description> Bennington NB at Queen Ann</description>
+</Placemark>
+<Placemark>
+<name>27414</name>
+<description> Orange WB at Mecca</description>
+</Placemark>
+<Placemark>
+<name>27620</name>
+<description> Westwood SB at Troutland</description>
+</Placemark>
+<Placemark>
+<name>26871</name>
+<description> Kimball NB at 4th</description>
+</Placemark>
+<Placemark>
+<name>26941</name>
+<description> Walnut EB at Jefferson</description>
+</Placemark>
+<Placemark>
+<name>26984</name>
+<description> Main SB at Kerns</description>
+</Placemark>
+<Placemark>
+<name>27250</name>
+<description> Grandin NB at Sherwood</description>
+</Placemark>
+<Placemark>
+<name>27592</name>
+<description> Melrose EB at Peters Creek (Uhaul)</description>
+</Placemark>
+<Placemark>
+<name>27139</name>
+<description> Fresno SB at Forest Park</description>
+</Placemark>
+<Placemark>
+<name>27625</name>
+<description> 3rd SB at Campbell</description>
+</Placemark>
+<Placemark>
+<name>26923</name>
+<description> Garden City NB at Carico (Garden City Elementary)</description>
+</Placemark>
+<Placemark>
+<name>27375</name>
+<description> Virginia WB at 4th</description>
+</Placemark>
+<Placemark>
+<name>26782</name>
+<description> Ferncliff SB at Ferncliff Apartments</description>
+</Placemark>
+<Placemark>
+<name>27357</name>
+<description> Bennington SB at Brownlee</description>
+</Placemark>
+<Placemark>
+<name>27631</name>
+<description> Westwood NB at Troutland</description>
+</Placemark>
+<Placemark>
+<name>26799</name>
+<description> Williamson NB at Preston</description>
+</Placemark>
+<Placemark>
+<name>22262</name>
+<description> Clifton Forge Town Hall</description>
+</Placemark>
+<Placemark>
+<name>27474</name>
+<description> Williamson SB at Berglund</description>
+</Placemark>
+<Placemark>
+<name>26770</name>
+<description> Rugby WB at 14th</description>
+</Placemark>
+<Placemark>
+<name>26936</name>
+<description> Tayloe SB at Morton</description>
+</Placemark>
+<Placemark>
+<name>27150</name>
+<description> Peters Creek NB at Hershberger</description>
+</Placemark>
+<Placemark>
+<name>27128</name>
+<description> Staunton WB at 18th</description>
+</Placemark>
+<Placemark>
+<name>27618</name>
+<description> Shenandoah EB at 36th/Beech</description>
+</Placemark>
+<Placemark>
+<name>27322</name>
+<description> McClanahan EB at Rosalind</description>
+</Placemark>
+<Placemark>
+<name>27555</name>
+<description> Florida SB at Aspen</description>
+</Placemark>
+<Placemark>
+<name>22190</name>
+<description> Walmart</description>
+</Placemark>
+<Placemark>
+<name>27157</name>
+<description> East Main WB at Parkdale</description>
+</Placemark>
+<Placemark>
+<name>26979</name>
+<description> Ogden SB at Leslie</description>
+</Placemark>
+<Placemark>
+<name>27136</name>
+<description> Florida NB at Aspen</description>
+</Placemark>
+<Placemark>
+<name>27358</name>
+<description> 11th SB between Jamison and Bullitt</description>
+</Placemark>
+<Placemark>
+<name>26779</name>
+<description> Cove SB at Guildhall</description>
+</Placemark>
+<Placemark>
+<name>27622</name>
+<description> Denniston SB at Westover</description>
+</Placemark>
+<Placemark>
+<name>27099</name>
+<description> Gilmer WB at 5th</description>
+</Placemark>
+<Placemark>
+<name>27240</name>
+<description> Salem Avenue EB at 16th</description>
+</Placemark>
+<Placemark>
+<name>27360</name>
+<description> Jamison EB at 14th</description>
+</Placemark>
+<Placemark>
+<name>27018</name>
+<description> Wasena SB at Hampton</description>
+</Placemark>
+<Placemark>
+<name>26952</name>
+<description> Franklin NB at Willow Oak</description>
+</Placemark>
+<Placemark>
+<name>27464</name>
+<description> Hershberger EB at Hazelridge</description>
+</Placemark>
+<Placemark>
+<name>27630</name>
+<description> Orange WB at King</description>
+</Placemark>
+<Placemark>
+<name>27634</name>
+<description> Hershberger EB at Bean</description>
+</Placemark>
+<Placemark>
+<name>27643</name>
+<description> Salem Turnpike WB at Westwood</description>
+</Placemark>
+<Placemark>
+<name>26765</name>
+<description> Madison WB at 10th</description>
+</Placemark>
+<Placemark>
+<name>27107</name>
+<description> Melrose WB at Forest Park</description>
+</Placemark>
+<Placemark>
+<name>27224</name>
+<description> Brandon WB at Carlton</description>
+</Placemark>
+<Placemark>
+<name>27382</name>
+<description> Hardy EB at Vinyard (McDonalds)</description>
+</Placemark>
+<Placemark>
+<name>27161</name>
+<description> West Main WB at Shanks</description>
+</Placemark>
+<Placemark>
+<name>27106</name>
+<description> Melrose WB at 23rd</description>
+</Placemark>
+<Placemark>
+<name>26872</name>
+<description> Kimball NB at Rutherford (Roanoke Gas)</description>
+</Placemark>
+<Placemark>
+<name>26828</name>
+<description> Orange EB at Mecca</description>
+</Placemark>
+<Placemark>
+<name>26983</name>
+<description> Main SB at Winona</description>
+</Placemark>
+<Placemark>
+<name>27138</name>
+<description> Aspen SB at Forest Park</description>
+</Placemark>
+<Placemark>
+<name>26873</name>
+<description> Kimball NB at Orange</description>
+</Placemark>
+<Placemark>
+<name>26824</name>
+<description> Dunkirk NB at Clyde</description>
+</Placemark>
+<Placemark>
+<name>26972</name>
+<description> Colonial NB at McNeil (VWCC)</description>
+</Placemark>
+<Placemark>
+<name>27608</name>
+<description> Salem Turnpike EB at Delta</description>
+</Placemark>
+<Placemark>
+<name>28203</name>
+<description> West Main EB at Elm</description>
+</Placemark>
+<Placemark>
+<name>22251</name>
+<description> 29th St. </description>
+</Placemark>
+<Placemark>
+<name>26914</name>
+<description> Garden City SB at Thomason</description>
+</Placemark>
+<Placemark>
+<name>27231</name>
+<description> Brandon EB at Stratford Park (Brandon Oaks)</description>
+</Placemark>
+<Placemark>
+<name>26857</name>
+<description> Greenland NB at 10th</description>
+</Placemark>
+<Placemark>
+<name>26886</name>
+<description> Hershberger WB at Friends (Friendship Manor)</description>
+</Placemark>
+<Placemark>
+<name>27043</name>
+<description> Memorial WB at Amherst (Virginia Heights Elementary)</description>
+</Placemark>
+<Placemark>
+<name>27006</name>
+<description> Salem Avenue WB at 14th</description>
+</Placemark>
+<Placemark>
+<name>27336</name>
+<description> Jamison WB at 4th St</description>
+</Placemark>
+<Placemark>
+<name>26834</name>
+<description> Gus Nicks SB at Dell/Vale</description>
+</Placemark>
+<Placemark>
+<name>27026</name>
+<description> Grandin SB at Brandon</description>
+</Placemark>
+<Placemark>
+<name>27124</name>
+<description> 11th NB at Staunton</description>
+</Placemark>
+<Placemark>
+<name>22178</name>
+<description> Greenhouse Rd.</description>
+</Placemark>
+<Placemark>
+<name>27644</name>
+<description> Goodwill Store Parking Lot Bus Shelter on Melrose at Lafayette</description>
+</Placemark>
+<Placemark>
+<name>27661</name>
+<description> Orange WB at Seibel</description>
+</Placemark>
+<Placemark>
+<name>27527</name>
+<description> 10th SB at Greenhurst</description>
+</Placemark>
+<Placemark>
+<name>27056</name>
+<description> Brandon WB at Langdon</description>
+</Placemark>
+<Placemark>
+<name>26853</name>
+<description> Hunt WB at 8th</description>
+</Placemark>
+<Placemark>
+<name>26885</name>
+<description> Plantation NB at Hollins/John Richardson (Food Lion Driveway)</description>
+</Placemark>
+<Placemark>
+<name>26985</name>
+<description> Main SB at Summit</description>
+</Placemark>
+<Placemark>
+<name>22180</name>
+<description> Furrs Mill Rd.</description>
+</Placemark>
+<Placemark>
+<name>22172</name>
+<description> Diamond Street</description>
+</Placemark>
+<Placemark>
+<name>27539</name>
+<description> Orange EB at 5th</description>
+</Placemark>
+<Placemark>
+<name>22225</name>
+<description> Salvation Army - VA Employee Comm</description>
+</Placemark>
+<Placemark>
+<name>27463</name>
+<description> Hershberger EB at Bluebell (Friendship Manor)</description>
+</Placemark>
+<Placemark>
+<name>26852</name>
+<description> Liberty NB at Dupree</description>
+</Placemark>
+<Placemark>
+<name>27436</name>
+<description> 9th NB at Dale</description>
+</Placemark>
+<Placemark>
+<name>22208</name>
+<description> Dialysis Center - Valley Ridge Rd.</description>
+</Placemark>
+<Placemark>
+<name>27059</name>
+<description> Brandon WB at Ferguson Bath Kitchen &amp; Lighting Showroom</description>
+</Placemark>
+<Placemark>
+<name>27149</name>
+<description> Peters Creek NB at Tennessee</description>
+</Placemark>
+<Placemark>
+<name>27578</name>
+<description> Melrose EB at Lafayette (Goodwill)</description>
+</Placemark>
+<Placemark>
+<name>26774</name>
+<description> Andrews WB at Leon</description>
+</Placemark>
+<Placemark>
+<name>27074</name>
+<description> Loudon WB at 16th</description>
+</Placemark>
+<Placemark>
+<name>28049</name>
+<description> Bedford Welcome Center</description>
+</Placemark>
+<Placemark>
+<name>27109</name>
+<description> Melrose WB at Old Country Club</description>
+</Placemark>
+<Placemark>
+<name>27341</name>
+<description> 9th SB at Buena Vista/Penmar</description>
+</Placemark>
+<Placemark>
+<name>27600</name>
+<description> Loudon EB at 10th</description>
+</Placemark>
+<Placemark>
+<name>27458</name>
+<description> Plantation SB at Frontier</description>
+</Placemark>
+<Placemark>
+<name>27292</name>
+<description> Ogden NB at Circle Brook (Pebble Creek Apartments)</description>
+</Placemark>
+<Placemark>
+<name>27328</name>
+<description> Franklin SB at Transmission America</description>
+</Placemark>
+<Placemark>
+<name>26888</name>
+<description> Hershberger WB at Hazelridge</description>
+</Placemark>
+<Placemark>
+<name>27165</name>
+<description> West Main WB at Spartan (Kmart)</description>
+</Placemark>
+<Placemark>
+<name>27203</name>
+<description> 6th SB at Campbell</description>
+</Placemark>
+<Placemark>
+<name>27244</name>
+<description> Patterson WB at 14th</description>
+</Placemark>
+<Placemark>
+<name>27313</name>
+<description> Avenham NB at 26th</description>
+</Placemark>
+<Placemark>
+<name>27355</name>
+<description> Bennington SB at Redwood</description>
+</Placemark>
+<Placemark>
+<name>27392</name>
+<description> Washington EB at Poplar</description>
+</Placemark>
+<Placemark>
+<name>28211</name>
+<description> Apperson EB at Orchard</description>
+</Placemark>
+<Placemark>
+<name>27035</name>
+<description> Church WB at 5th</description>
+</Placemark>
+<Placemark>
+<name>27063</name>
+<description> Brandon WB at Gale (Wendy&#39;s)</description>
+</Placemark>
+<Placemark>
+<name>27068</name>
+<description> Shenandoah WB at 6th</description>
+</Placemark>
+<Placemark>
+<name>22203</name>
+<description> Goodwill</description>
+</Placemark>
+<Placemark>
+<name>26940</name>
+<description> Jefferson SB at Marion (Breast Cancer Center)</description>
+</Placemark>
+<Placemark>
+<name>27448</name>
+<description> Hollins SB at Shull</description>
+</Placemark>
+<Placemark>
+<name>26976</name>
+<description> Ogden SB at Colonial</description>
+</Placemark>
+<Placemark>
+<name>27510</name>
+<description> Ferncliff NB at William Fleming High School</description>
+</Placemark>
+<Placemark>
+<name>27552</name>
+<description> Lafayette SB at New York</description>
+</Placemark>
+<Placemark>
+<name>27193</name>
+<description> East Main EB at Wortham</description>
+</Placemark>
+<Placemark>
+<name>27226</name>
+<description> Brandon EB at Mud Lick/Edgewood (Yorktown Place)</description>
+</Placemark>
+<Placemark>
+<name>27408</name>
+<description> King NB at Glade Creek</description>
+</Placemark>
+<Placemark>
+<name>27517</name>
+<description> Grandview SB at Marr</description>
+</Placemark>
+<Placemark>
+<name>26943</name>
+<description> Belleview SB at Linden</description>
+</Placemark>
+<Placemark>
+<name>27491</name>
+<description> McDowell EB at 5th</description>
+</Placemark>
+<Placemark>
+<name>22187</name>
+<description> Stonewall Square</description>
+</Placemark>
+<Placemark>
+<name>26993</name>
+<description> Brambleton SB at Welch</description>
+</Placemark>
+<Placemark>
+<name>27303</name>
+<description> McClanahan EB at Jefferson</description>
+</Placemark>
+<Placemark>
+<name>26864</name>
+<description> Grandview NB at Vancouver</description>
+</Placemark>
+<Placemark>
+<name>26974</name>
+<description> Colonial SB at Wright</description>
+</Placemark>
+<Placemark>
+<name>22217</name>
+<description> 10th St. &amp; Rt. 220 - Iron Gate</description>
+</Placemark>
+<Placemark>
+<name>27217</name>
+<description> Fauquier NB at Denniston</description>
+</Placemark>
+<Placemark>
+<name>27495</name>
+<description> 10th SB at Staunton</description>
+</Placemark>
+<Placemark>
+<name>27298</name>
+<description> Belleview NB at Linden</description>
+</Placemark>
+<Placemark>
+<name>27497</name>
+<description> Rugby EB at 14th</description>
+</Placemark>
+<Placemark>
+<name>27384</name>
+<description> Cleveland WB at Poplar</description>
+</Placemark>
+<Placemark>
+<name>27588</name>
+<description> Melrose EB at Fentress</description>
+</Placemark>
+<Placemark>
+<name>27421</name>
+<description> Dale WB at 8th</description>
+</Placemark>
+<Placemark>
+<name>27132</name>
+<description> Staunton WB at Lafayette</description>
+</Placemark>
+<Placemark>
+<name>27362</name>
+<description> Dale WB at 13th</description>
+</Placemark>
+<Placemark>
+<name>27479</name>
+<description> Williamson NB at Bowman (opposite NY Deli)</description>
+</Placemark>
+<Placemark>
+<name>27550</name>
+<description> Staunton EB at 24th</description>
+</Placemark>
+<Placemark>
+<name>27200</name>
+<description> Roanoke Blvd EB at Easton</description>
+</Placemark>
+<Placemark>
+<name>27083</name>
+<description> Westwood SB at Shenandoah</description>
+</Placemark>
+<Placemark>
+<name>27430</name>
+<description> Campbell EB at 7th</description>
+</Placemark>
+<Placemark>
+<name>27212</name>
+<description> Memorial EB at Brunswick</description>
+</Placemark>
+<Placemark>
+<name>27143</name>
+<description> Hershberger WB at Cove (Valley View Garden Apartments)</description>
+</Placemark>
+<Placemark>
+<name>27259</name>
+<description> Main NB at Howbert</description>
+</Placemark>
+<Placemark>
+<name>26843</name>
+<description> Bedford NB at E. Cleveland</description>
+</Placemark>
+<Placemark>
+<name>27350</name>
+<description> Garden City NB at Ray</description>
+</Placemark>
+<Placemark>
+<name>27031</name>
+<description> Carlton SB at Grandin</description>
+</Placemark>
+<Placemark>
+<name>26835</name>
+<description> Gus Nicks SB at Madison</description>
+</Placemark>
+<Placemark>
+<name>26950</name>
+<description> Franklin SB at Roberts (Carilion Laundry)</description>
+</Placemark>
+<Placemark>
+<name>26778</name>
+<description> Cove NB at Golfside</description>
+</Placemark>
+<Placemark>
+<name>27020</name>
+<description> Maiden WB at Denniston</description>
+</Placemark>
+<Placemark>
+<name>27534</name>
+<description> Burrell SB at Douglass</description>
+</Placemark>
+<Placemark>
+<name>22175</name>
+<description> Free Clinic</description>
+</Placemark>
+<Placemark>
+<name>27002</name>
+<description> Salem Avenue WB at 6th</description>
+</Placemark>
+<Placemark>
+<name>27612</name>
+<description> Salem Turnpike EB near 31st (Contractor&#39;s Building Supply)</description>
+</Placemark>
+<Placemark>
+<name>27075</name>
+<description> Loudon WB at 18th</description>
+</Placemark>
+<Placemark>
+<name>27435</name>
+<description> 9th SB at Dale</description>
+</Placemark>
+<Placemark>
+<name>27623</name>
+<description> Wasena NB at Richard T Wellins Rd.</description>
+</Placemark>
+<Placemark>
+<name>27208</name>
+<description> 13th NB at Campbell</description>
+</Placemark>
+<Placemark>
+<name>22209</name>
+<description> YMCA - Low Moor</description>
+</Placemark>
+<Placemark>
+<name>26808</name>
+<description> Campbell WB at Norfolk (Valley Metro Admin Bldg)</description>
+</Placemark>
+<Placemark>
+<name>27206</name>
+<description> Patterson EB at 12th</description>
+</Placemark>
+<Placemark>
+<name>26931</name>
+<description> Kenwood EB at 17th</description>
+</Placemark>
+<Placemark>
+<name>27218</name>
+<description> Edgewood NB at Windsor</description>
+</Placemark>
+<Placemark>
+<name>27404</name>
+<description> King SB at Vinton Mill</description>
+</Placemark>
+<Placemark>
+<name>27225</name>
+<description> Brandon EB at The Ridge Apartments</description>
+</Placemark>
+<Placemark>
+<name>27581</name>
+<description> Melrose EB at Forest Park</description>
+</Placemark>
+<Placemark>
+<name>22270</name>
+<description> 29th St. </description>
+</Placemark>
+<Placemark>
+<name>26760</name>
+<description> Gainsboro NB at Patton</description>
+</Placemark>
+<Placemark>
+<name>27192</name>
+<description> East Main WB at Lynchburg</description>
+</Placemark>
+<Placemark>
+<name>26961</name>
+<description> Franklin SB at Day</description>
+</Placemark>
+<Placemark>
+<name>27566</name>
+<description> Moorman WB at 8th</description>
+</Placemark>
+<Placemark>
+<name>27606</name>
+<description> Loudon EB at 22nd</description>
+</Placemark>
+<Placemark>
+<name>26797</name>
+<description> Williamson NB at Angell (AutoZone)</description>
+</Placemark>
+<Placemark>
+<name>27086</name>
+<description> Old Stevens NB at Troutland</description>
+</Placemark>
+<Placemark>
+<name>27133</name>
+<description> Lafayette NB at New York</description>
+</Placemark>
+<Placemark>
+<name>27201</name>
+<description> VA Hospital Private Road Stop 1</description>
+</Placemark>
+<Placemark>
+<name>27514</name>
+<description> Valley View Road SB at Lewis Gale Clinic</description>
+</Placemark>
+<Placemark>
+<name>22193</name>
+<description> Ferrum Town Center</description>
+</Placemark>
+<Placemark>
+<name>26965</name>
+<description> Franklin SB at Reserve</description>
+</Placemark>
+<Placemark>
+<name>26831</name>
+<description> King NB at Parkway House of Prayer</description>
+</Placemark>
+<Placemark>
+<name>26865</name>
+<description> Grandview NB at Edinburgh</description>
+</Placemark>
+<Placemark>
+<name>27054</name>
+<description> Malvern SB at Derwent</description>
+</Placemark>
+<Placemark>
+<name>27441</name>
+<description> Kimball SB at Rutherford</description>
+</Placemark>
+<Placemark>
+<name>27484</name>
+<description> Williamson SB at Angell</description>
+</Placemark>
+<Placemark>
+<name>26957</name>
+<description> Tanglewood Mall at AC Moore</description>
+</Placemark>
+<Placemark>
+<name>27011</name>
+<description> Patterson EB at 14th</description>
+</Placemark>
+<Placemark>
+<name>27331</name>
+<description> Electric SB at Tanglewood Mall Driveway (Wendy&#39;s)</description>
+</Placemark>
+<Placemark>
+<name>27423</name>
+<description> 8th SB at Hill</description>
+</Placemark>
+<Placemark>
+<name>27635</name>
+<description> Norfolk EB at Campbell (Valley Metro Admin Bldg.)</description>
+</Placemark>
+<Placemark>
+<name>22245</name>
+<description> Dabney Lancaster CC</description>
+</Placemark>
+<Placemark>
+<name>26802</name>
+<description> Airport SB at Williamson</description>
+</Placemark>
+<Placemark>
+<name>27419</name>
+<description> Dunkirk SB at Clyde</description>
+</Placemark>
+<Placemark>
+<name>26798</name>
+<description> Williamson NB at Truman</description>
+</Placemark>
+<Placemark>
+<name>26932</name>
+<description> Greenbrier EB at Clinton</description>
+</Placemark>
+<Placemark>
+<name>27394</name>
+<description> King NB at Gus Nicks</description>
+</Placemark>
+<Placemark>
+<name>27008</name>
+<description> Salem Avenue WB at 18th</description>
+</Placemark>
+<Placemark>
+<name>27186</name>
+<description> Roanoke Blvd NB at 8th (Salem Civic Center)</description>
+</Placemark>
+<Placemark>
+<name>27108</name>
+<description> Melrose WB at Palmetto</description>
+</Placemark>
+<Placemark>
+<name>27368</name>
+<description> Kenwood WB at Greenbrier</description>
+</Placemark>
+<Placemark>
+<name>22186</name>
+<description> S.J. Hospital</description>
+</Placemark>
+<Placemark>
+<name>27127</name>
+<description> Staunton WB at 16th</description>
+</Placemark>
+<Placemark>
+<name>27399</name>
+<description> Washington WB at Blair</description>
+</Placemark>
+<Placemark>
+<name>28050</name>
+<description> Lynchburg (Kemper Street Station)</description>
+</Placemark>
+<Placemark>
+<name>22254</name>
+<description> E. 13th St.</description>
+</Placemark>
+<Placemark>
+<name>26806</name>
+<description> Campbell EB at Norfolk (Citgo station)</description>
+</Placemark>
+<Placemark>
+<name>27326</name>
+<description> Franklin NB at Beechwood</description>
+</Placemark>
+<Placemark>
+<name>27409</name>
+<description> King NB at Spring Tree</description>
+</Placemark>
+<Placemark>
+<name>27583</name>
+<description> Melrose EB at Victoria (Melrose Towers)</description>
+</Placemark>
+<Placemark>
+<name>27444</name>
+<description> Hollins SB at Mohawk</description>
+</Placemark>
+<Placemark>
+<name>27126</name>
+<description> Staunton WB at 14th</description>
+</Placemark>
+<Placemark>
+<name>27742</name>
+<description> Roanoke-Blacksburg Regional Airport </description>
+</Placemark>
+<Placemark>
+<name>26789</name>
+<description> Williamson NB at Compton</description>
+</Placemark>
+<Placemark>
+<name>26970</name>
+<description> Colonial SB at Clearfield</description>
+</Placemark>
+<Placemark>
+<name>27249</name>
+<description> Grandin NB at Maiden</description>
+</Placemark>
+<Placemark>
+<name>27025</name>
+<description> Grandin SB at Sherwood</description>
+</Placemark>
+<Placemark>
+<name>27500</name>
+<description> Andrews WB at Florida</description>
+</Placemark>
+<Placemark>
+<name>22246</name>
+<description> Burger King</description>
+</Placemark>
+<Placemark>
+<name>26977</name>
+<description> Ogden SB at Circle Brook (Pebble Creek Apartments)</description>
+</Placemark>
+<Placemark>
+<name>27386</name>
+<description> Vinyard NB at Bedford</description>
+</Placemark>
+<Placemark>
+<name>27116</name>
+<description> Melrose WB at Pilot</description>
+</Placemark>
+<Placemark>
+<name>27023</name>
+<description> Grandin SB at Maiden</description>
+</Placemark>
+<Placemark>
+<name>27146</name>
+<description> Westside SB at Maine</description>
+</Placemark>
+<Placemark>
+<name>27498</name>
+<description> Andrews EB at 19th</description>
+</Placemark>
+<Placemark>
+<name>22211</name>
+<description> Low Moor Post Office</description>
+</Placemark>
+<Placemark>
+<name>26975</name>
+<description> Colonial SB at Woodland</description>
+</Placemark>
+<Placemark>
+<name>26869</name>
+<description> Valley View Ring Road SB at Olive Garden</description>
+</Placemark>
+<Placemark>
+<name>27000</name>
+<description> Red Rock NB at Brambleton (Shell station)</description>
+</Placemark>
+<Placemark>
+<name>27465</name>
+<description> Hershberger EB at Hubert/Winsloe</description>
+</Placemark>
+<Placemark>
+<name>26954</name>
+<description> Franklin SB at Townside Festival Shopping Center</description>
+</Placemark>
+<Placemark>
+<name>27323</name>
+<description> Broadway EB at Avenham</description>
+</Placemark>
+<Placemark>
+<name>26816</name>
+<description> Valley View Ring Road SB at Walmart</description>
+</Placemark>
+<Placemark>
+<name>26963</name>
+<description> Franklin SB at Albemarle</description>
+</Placemark>
+<Placemark>
+<name>26966</name>
+<description> Franklin SB at Edinburgh (Ramada Inn)</description>
+</Placemark>
+<Placemark>
+<name>26989</name>
+<description> 23rd at hill before Towers Shopping Center</description>
+</Placemark>
+<Placemark>
+<name>27366</name>
+<description> Kenwood WB at 15th</description>
+</Placemark>
+<Placemark>
+<name>22226</name>
+<description> Foodlion - Goodwill Industries</description>
+</Placemark>
+<Placemark>
+<name>27216</name>
+<description> Mountain View EB at Mountain View Terrace Apartments</description>
+</Placemark>
+<Placemark>
+<name>27377</name>
+<description> Virginia EB at 2nd</description>
+</Placemark>
+<Placemark>
+<name>27088</name>
+<description> Westside SB at Shenandoah</description>
+</Placemark>
+<Placemark>
+<name>27641</name>
+<description> VA Veterans Care Center</description>
+</Placemark>
+<Placemark>
+<name>27066</name>
+<description> Lewis Gale Medical Center</description>
+</Placemark>
+<Placemark>
+<name>28213</name>
+<description> Apperson EB at Dillard (Food Lion)</description>
+</Placemark>
+<Placemark>
+<name>27420</name>
+<description> Dale SB at 6th</description>
+</Placemark>
+<Placemark>
+<name>27604</name>
+<description> Loudon EB at 18th</description>
+</Placemark>
+<Placemark>
+<name>27141</name>
+<description> Golfside SB at Florida</description>
+</Placemark>
+<Placemark>
+<name>27363</name>
+<description> 13th NB at Montrose</description>
+</Placemark>
+<Placemark>
+<name>27103</name>
+<description> Melrose WB at 14th</description>
+</Placemark>
+<Placemark>
+<name>27334</name>
+<description> Franklin NB at Penarth</description>
+</Placemark>
+<Placemark>
+<name>26847</name>
+<description> Pollard SB at Cedar</description>
+</Placemark>
+<Placemark>
+<name>27194</name>
+<description> East Main EB at Pinehurst</description>
+</Placemark>
+<Placemark>
+<name>26809</name>
+<description> Wise EB at 14th</description>
+</Placemark>
+<Placemark>
+<name>27508</name>
+<description> Routt NB at Ferncliff</description>
+</Placemark>
+<Placemark>
+<name>27342</name>
+<description> 9th NB at Buena Vista/Penmar</description>
+</Placemark>
+<Placemark>
+<name>27477</name>
+<description> Williamson SB at Liberty</description>
+</Placemark>
+<Placemark>
+<name>27321</name>
+<description> Avenham NB at Franklin</description>
+</Placemark>
+<Placemark>
+<name>27589</name>
+<description> Melrose EB at Westside</description>
+</Placemark>
+<Placemark>
+<name>27418</name>
+<description> Gus Nicks NB at Orange</description>
+</Placemark>
+<Placemark>
+<name>27613</name>
+<description> Roanoke Blvd WB at Hemlock</description>
+</Placemark>
+<Placemark>
+<name>22255</name>
+<description> BV Library</description>
+</Placemark>
+<Placemark>
+<name>26917</name>
+<description> Garden City SB at Davenport/Ivywood</description>
+</Placemark>
+<Placemark>
+<name>27574</name>
+<description> Melrose EB at 18th</description>
+</Placemark>
+<Placemark>
+<name>27651</name>
+<description> Salem EB at 8th</description>
+</Placemark>
+<Placemark>
+<name>27544</name>
+<description> Staunton EB at 12th</description>
+</Placemark>
+<Placemark>
+<name>22223</name>
+<description> Main St. - Covington</description>
+</Placemark>
+<Placemark>
+<name>27460</name>
+<description> Hershberger WB at Plantation (Edinburgh Square)</description>
+</Placemark>
+<Placemark>
+<name>27340</name>
+<description> 9th NB at Montrose</description>
+</Placemark>
+<Placemark>
+<name>26891</name>
+<description> Airport NB at Williamson</description>
+</Placemark>
+<Placemark>
+<name>27182</name>
+<description> Electric NB at Indiana/Midland</description>
+</Placemark>
+<Placemark>
+<name>28208</name>
+<description> 7th Street WB at College</description>
+</Placemark>
+<Placemark>
+<name>27614</name>
+<description> Roanoke Blvd WB at Disabled Veterans Store</description>
+</Placemark>
+<Placemark>
+<name>27666</name>
+<description> Memorial EB at Fauquier</description>
+</Placemark>
+<Placemark>
+<name>26777</name>
+<description> Cove NB at Abbott</description>
+</Placemark>
+<Placemark>
+<name>27519</name>
+<description> Grandview SB at Vancouver</description>
+</Placemark>
+<Placemark>
+<name>27304</name>
+<description> Jefferson NB at McClanahan/Yellow Mountain</description>
+</Placemark>
+<Placemark>
+<name>27295</name>
+<description> Franklin WB at Jefferson</description>
+</Placemark>
+<Placemark>
+<name>27454</name>
+<description> Plantation SB at Huntington</description>
+</Placemark>
+<Placemark>
+<name>28209</name>
+<description> Colorado SB at Rowan</description>
+</Placemark>
+<Placemark>
+<name>29679</name>
+<description> S. Carpenter Dr. - Whitey&#39;s Convenience Store</description>
+</Placemark>
+<Placemark>
+<name>27266</name>
+<description> Brambleton NB at Ross</description>
+</Placemark>
+<Placemark>
+<name>27504</name>
+<description> Cove SB at Golfside</description>
+</Placemark>
+<Placemark>
+<name>27554</name>
+<description> Florida SB at Lafayette</description>
+</Placemark>
+<Placemark>
+<name>27443</name>
+<description> Hollins SB at Orange</description>
+</Placemark>
+<Placemark>
+<name>27746</name>
+<description> Corporate Research Center </description>
+</Placemark>
+<Placemark>
+<name>26854</name>
+<description> Hunt WB at 10th</description>
+</Placemark>
+<Placemark>
+<name>22176</name>
+<description> Walmart</description>
+</Placemark>
+<Placemark>
+<name>26821</name>
+<description> 8th NB at Hill</description>
+</Placemark>
+<Placemark>
+<name>27111</name>
+<description> Melrose WB at 35th</description>
+</Placemark>
+<Placemark>
+<name>26820</name>
+<description> Walnut EB at Booker (Alvaro&#39;s Store)</description>
+</Placemark>
+<Placemark>
+<name>22264</name>
+<description> Salvation Army - VA Employee Comm</description>
+</Placemark>
+<Placemark>
+<name>27407</name>
+<description> King SB at Parkway House of Prayer</description>
+</Placemark>
+<Placemark>
+<name>26844</name>
+<description> Cleveland WB at Pine</description>
+</Placemark>
+<Placemark>
+<name>27367</name>
+<description> Kenwood WB at 17th</description>
+</Placemark>
+<Placemark>
+<name>27076</name>
+<description> Loudon WB at 20th</description>
+</Placemark>
+<Placemark>
+<name>26786</name>
+<description> Wells EB at Jefferson</description>
+</Placemark>
+<Placemark>
+<name>27655</name>
+<description> Towers Shopping Center Kroger</description>
+</Placemark>
+<Placemark>
+<name>26791</name>
+<description> Williamson NB at Clover</description>
+</Placemark>
+<Placemark>
+<name>27305</name>
+<description> Jefferson NB at 23rd</description>
+</Placemark>
+<Placemark>
+<name>27078</name>
+<description> Salem Turnpike WB at 24th</description>
+</Placemark>
+<Placemark>
+<name>27427</name>
+<description> Wise WB at 14th</description>
+</Placemark>
+<Placemark>
+<name>27602</name>
+<description> Loudon EB at 14th</description>
+</Placemark>
+<Placemark>
+<name>27211</name>
+<description> Memorial EB at Winborne</description>
+</Placemark>
+<Placemark>
+<name>27256</name>
+<description> Elm EB at 8th</description>
+</Placemark>
+<Placemark>
+<name>26796</name>
+<description> Williamson NB at Oakland</description>
+</Placemark>
+<Placemark>
+<name>28207</name>
+<description> College SB at 4th</description>
+</Placemark>
+<Placemark>
+<name>26792</name>
+<description> Williamson NB at Laconia</description>
+</Placemark>
+<Placemark>
+<name>26866</name>
+<description> Grandview NB at Marr</description>
+</Placemark>
+<Placemark>
+<name>27131</name>
+<description> Staunton WB at 24th</description>
+</Placemark>
+<Placemark>
+<name>29680</name>
+<description> Alleghany St. &amp; Highland Ave.</description>
+</Placemark>
+<Placemark>
+<name>27639</name>
+<description> West Main WB at Broad</description>
+</Placemark>
+<Placemark>
+<name>27445</name>
+<description> Hollins SB at Missouri</description>
+</Placemark>
+<Placemark>
+<name>27349</name>
+<description> Garden City SB at Findlay</description>
+</Placemark>
+<Placemark>
+<name>27135</name>
+<description> Florida NB at Lafayette</description>
+</Placemark>
+<Placemark>
+<name>22224</name>
+<description> Covington Public Library</description>
+</Placemark>
+<Placemark>
+<name>27285</name>
+<description> Colonial SB at Overland</description>
+</Placemark>
+<Placemark>
+<name>26825</name>
+<description> Gus Nicks SB at King</description>
+</Placemark>
+<Placemark>
+<name>26870</name>
+<description> Valley View Ring Road SB at TGI Fridays</description>
+</Placemark>
+<Placemark>
+<name>27493</name>
+<description> Madison EB at 8th</description>
+</Placemark>
+<Placemark>
+<name>759370</name>
+<description> Church EB at Market</description>
+</Placemark>
+<Placemark>
+<name>26945</name>
+<description> Jefferson SB at McClanahan</description>
+</Placemark>
+<Placemark>
+<name>27104</name>
+<description> Melrose WB at 16th</description>
+</Placemark>
+<Placemark>
+<name>27615</name>
+<description> Shenandoah EB at Old Spanish Trail</description>
+</Placemark>
+<Placemark>
+<name>27540</name>
+<description> Orange EB at 8th</description>
+</Placemark>
+<Placemark>
+<name>26939</name>
+<description> Jefferson SB at Albemarle</description>
+</Placemark>
+<Placemark>
+<name>27037</name>
+<description> Patterson WB at 8th</description>
+</Placemark>
+<Placemark>
+<name>26919</name>
+<description> Garden City SB at Ray</description>
+</Placemark>
+<Placemark>
+<name>27061</name>
+<description> Brandon WB at Stratford Park (Brandon Oaks)</description>
+</Placemark>
+<Placemark>
+<name>27120</name>
+<description> East Main at Goodwill Transfer Center</description>
+</Placemark>
+<Placemark>
+<name>27594</name>
+<description> Melrose WB at Peck</description>
+</Placemark>
+<Placemark>
+<name>27324</name>
+<description> Broadway EB at Stephenson</description>
+</Placemark>
+<Placemark>
+<name>27601</name>
+<description> Loudon EB at 12th</description>
+</Placemark>
+<Placemark>
+<name>22171</name>
+<description> Kroger</description>
+</Placemark>
+<Placemark>
+<name>26912</name>
+<description> Mt Pleasant EB at Medical Center Driveway</description>
+</Placemark>
+<Placemark>
+<name>22174</name>
+<description> College Square</description>
+</Placemark>
+<Placemark>
+<name>22181</name>
+<description> N. Lee Hwy.</description>
+</Placemark>
+<Placemark>
+<name>27507</name>
+<description> Ferncliff NB at Routt</description>
+</Placemark>
+<Placemark>
+<name>27299</name>
+<description> Belleview NB at Walnut</description>
+</Placemark>
+<Placemark>
+<name>27456</name>
+<description> Plantation SB at Columbia/Preston</description>
+</Placemark>
+<Placemark>
+<name>26902</name>
+<description> Bullitt WB at Elm</description>
+</Placemark>
+<Placemark>
+<name>27153</name>
+<description> Cove SB at Food Lion Entrance</description>
+</Placemark>
+<Placemark>
+<name>27204</name>
+<description> Patterson EB at 8th</description>
+</Placemark>
+<Placemark>
+<name>27219</name>
+<description> Edgewood NB at Westover</description>
+</Placemark>
+<Placemark>
+<name>27471</name>
+<description> Williamson SB at Carver (Sheetz)</description>
+</Placemark>
+<Placemark>
+<name>27048</name>
+<description> Mountain View WB at Byrne</description>
+</Placemark>
+<Placemark>
+<name>27123</name>
+<description> Orange WB at 8th</description>
+</Placemark>
+<Placemark>
+<name>27447</name>
+<description> Hollins NB at Shull</description>
+</Placemark>
+<Placemark>
+<name>22263</name>
+<description> Dialysis Center - Valley Ridge Rd.</description>
+</Placemark>
+<Placemark>
+<name>27251</name>
+<description> Brandon WB at New York</description>
+</Placemark>
+<Placemark>
+<name>27381</name>
+<description> Hardy EB at Niagara</description>
+</Placemark>
+<Placemark>
+<name>27428</name>
+<description> Campbell WB at 8 1/2</description>
+</Placemark>
+<Placemark>
+<name>27607</name>
+<description> Salem Turnpike EB at 24th</description>
+</Placemark>
+<Placemark>
+<name>27453</name>
+<description> Hollins WB at Plantation</description>
+</Placemark>
+<Placemark>
+<name>27542</name>
+<description> 11th NB at Orange</description>
+</Placemark>
+<Placemark>
+<name>27649</name>
+<description> Towne Square EB at Rutgers</description>
+</Placemark>
+<Placemark>
+<name>27118</name>
+<description> Melrose EB at Otter</description>
+</Placemark>
+<Placemark>
+<name>27005</name>
+<description> Salem Avenue WB at 12th</description>
+</Placemark>
+<Placemark>
+<name>27154</name>
+<description> Cove SB at Lynnhope</description>
+</Placemark>
+<Placemark>
+<name>27403</name>
+<description> Washington WB at Preston</description>
+</Placemark>
+<Placemark>
+<name>27077</name>
+<description> Loudon WB at 22nd</description>
+</Placemark>
+<Placemark>
+<name>27095</name>
+<description> Centre EB at 7th</description>
+</Placemark>
+<Placemark>
+<name>26875</name>
+<description> Hollins NB at Mohawk</description>
+</Placemark>
+<Placemark>
+<name>27062</name>
+<description> Brandon WB at Skating Center</description>
+</Placemark>
+<Placemark>
+<name>27230</name>
+<description> Brandon EB at Peters Creek</description>
+</Placemark>
+<Placemark>
+<name>27467</name>
+<description> Towne Square EB at Office Max</description>
+</Placemark>
+<Placemark>
+<name>27333</name>
+<description> Electric SB at Tanglewood Mall Driveway (Copper Croft Apartments)</description>
+</Placemark>
+<Placemark>
+<name>26841</name>
+<description> Clearview NB at Hardy</description>
+</Placemark>
+<Placemark>
+<name>27487</name>
+<description> Williamson SB at Floraland</description>
+</Placemark>
+<Placemark>
+<name>27060</name>
+<description> Brandon WB at Peters Creek (Carwash)</description>
+</Placemark>
+<Placemark>
+<name>27100</name>
+<description> Moorman WB at 7th</description>
+</Placemark>
+<Placemark>
+<name>26759</name>
+<description> Gainsboro NB at Loudon</description>
+</Placemark>
+<Placemark>
+<name>28248</name>
+<description> West Main WB at Poplar</description>
+</Placemark>
+<Placemark>
+<name>27091</name>
+<description> VA Hospital Private Road Stop 3 (at Roanoke Blvd. and Hemlock)</description>
+</Placemark>
+<Placemark>
+<name>27553</name>
+<description> Lafayette NB at Massachusetts</description>
+</Placemark>
+<Placemark>
+<name>27272</name>
+<description> Franklin NB at Mountain</description>
+</Placemark>
+<Placemark>
+<name>27030</name>
+<description> Carlton SB at Northview</description>
+</Placemark>
+<Placemark>
+<name>26946</name>
+<description> McClanahan WB at Rosalind</description>
+</Placemark>
+<Placemark>
+<name>27160</name>
+<description> West Main WB at Academy/Union</description>
+</Placemark>
+<Placemark>
+<name>27662</name>
+<description> King SB at Glade View</description>
+</Placemark>
+<Placemark>
+<name>22202</name>
+<description> Mallow Mall-K-Mart</description>
+</Placemark>
+<Placemark>
+<name>26829</name>
+<description> Orange EB at Hickory Woods</description>
+</Placemark>
+<Placemark>
+<name>27137</name>
+<description> Aspen SB at Massachusetts</description>
+</Placemark>
+<Placemark>
+<name>27209</name>
+<description> 13th NB at Cleveland</description>
+</Placemark>
+<Placemark>
+<name>27258</name>
+<description> Main SB at Howbert</description>
+</Placemark>
+<Placemark>
+<name>22189</name>
+<description> Bowling Alley</description>
+</Placemark>
+<Placemark>
+<name>27310</name>
+<description> 26th EB at Crystal Spring</description>
+</Placemark>
+<Placemark>
+<name>26776</name>
+<description> Cove NB at Fairland</description>
+</Placemark>
+<Placemark>
+<name>27082</name>
+<description> Westwood SB at Fairview Elementary (and Greenvale School)</description>
+</Placemark>
+<Placemark>
+<name>27205</name>
+<description> Patterson EB at 10th</description>
+</Placemark>
+<Placemark>
+<name>27369</name>
+<description> Dale WB at 19th</description>
+</Placemark>
+<Placemark>
+<name>26913</name>
+<description> Bennington Street Food Lion</description>
+</Placemark>
+<Placemark>
+<name>26937</name>
+<description> Tayloe SB at Miami</description>
+</Placemark>
+<Placemark>
+<name>27749</name>
+<description> Jefferson SB at Kirk</description>
+</Placemark>
+<Placemark>
+<name>26995</name>
+<description> Brambleton SB at Ross</description>
+</Placemark>
+<Placemark>
+<name>27207</name>
+<description> 13th NB at Patterson</description>
+</Placemark>
+<Placemark>
+<name>27422</name>
+<description> Walnut WB at Booker</description>
+</Placemark>
+<Placemark>
+<name>27528</name>
+<description> 10th SB at Hunt</description>
+</Placemark>
+<Placemark>
+<name>27609</name>
+<description> Salem Turnpike WB at 30th</description>
+</Placemark>
+<Placemark>
+<name>26827</name>
+<description> Gus Nicks SB at Orange</description>
+</Placemark>
+<Placemark>
+<name>27097</name>
+<description> Gilmer WB at 2nd</description>
+</Placemark>
+<Placemark>
+<name>27389</name>
+<description> Bypass SB at Roop (opposite Hardy Road CVS)</description>
+</Placemark>
+<Placemark>
+<name>26928</name>
+<description> Bennington NB at Brownlee</description>
+</Placemark>
+<Placemark>
+<name>27541</name>
+<description> 11th SB at Orange</description>
+</Placemark>
+<Placemark>
+<name>26837</name>
+<description> Washington EB at Pine</description>
+</Placemark>
+<Placemark>
+<name>27117</name>
+<description> Melrose WB at Gun Club</description>
+</Placemark>
+<Placemark>
+<name>22267</name>
+<description> Main St. - Covington</description>
+</Placemark>
+<Placemark>
+<name>27014</name>
+<description> 13th SB at Cleveland</description>
+</Placemark>
+<Placemark>
+<name>27387</name>
+<description> River Park Shopping Center Driveway Entrance</description>
+</Placemark>
+<Placemark>
+<name>27549</name>
+<description> Staunton EB at 22nd</description>
+</Placemark>
+<Placemark>
+<name>27760</name>
+<description> Jefferson NB at Walnut</description>
+</Placemark>
+<Placemark>
+<name>27032</name>
+<description> Grandin NB at Guilford</description>
+</Placemark>
+<Placemark>
+<name>27379</name>
+<description> Hardy EB at Spruce</description>
+</Placemark>
+<Placemark>
+<name>27568</name>
+<description> Moorman EB at 10th</description>
+</Placemark>
+<Placemark>
+<name>27152</name>
+<description> Peters Creek NB at Food Lion Entrance</description>
+</Placemark>
+<Placemark>
+<name>27395</name>
+<description> Gus Nicks NB at Dell/Vale</description>
+</Placemark>
+<Placemark>
+<name>26856</name>
+<description> 10th NB at Courtland</description>
+</Placemark>
+<Placemark>
+<name>27252</name>
+<description> 2nd NB at Church</description>
+</Placemark>
+<Placemark>
+<name>26840</name>
+<description> River Park Shopping Center Drive Exit (Stop Sign)</description>
+</Placemark>
+<Placemark>
+<name>26998</name>
+<description> Brambleton SB at Rosewood</description>
+</Placemark>
+<Placemark>
+<name>27072</name>
+<description> Loudon WB at 12th</description>
+</Placemark>
+<Placemark>
+<name>27012</name>
+<description> Patterson EB at 13th</description>
+</Placemark>
+<Placemark>
+<name>27253</name>
+<description> Elm EB at 4th</description>
+</Placemark>
+<Placemark>
+<name>27547</name>
+<description> Staunton EB at 18th</description>
+</Placemark>
+<Placemark>
+<name>27228</name>
+<description> Brandon EB at Westland</description>
+</Placemark>
+<Placemark>
+<name>27290</name>
+<description> Colonial NB at Woodland</description>
+</Placemark>
+<Placemark>
+<name>26842</name>
+<description> Hardy WB at Bedford</description>
+</Placemark>
+<Placemark>
+<name>26764</name>
+<description> Madison WB at 8th</description>
+</Placemark>
+<Placemark>
+<name>26938</name>
+<description> Jefferson SB at Mountain</description>
+</Placemark>
+<Placemark>
+<name>27565</name>
+<description> Moorman EB at 8th</description>
+</Placemark>
+<Placemark>
+<name>27557</name>
+<description> Aspen NB at Alder</description>
+</Placemark>
+<Placemark>
+<name>27610</name>
+<description> Salem Turnpike EB at 30th</description>
+</Placemark>
+<Placemark>
+<name>27255</name>
+<description> Elm EB at 5th</description>
+</Placemark>
+<Placemark>
+<name>26811</name>
+<description> Wise EB at 18th</description>
+</Placemark>
+<Placemark>
+<name>26763</name>
+<description> McDowell EB at 6th</description>
+</Placemark>
+<Placemark>
+<name>27291</name>
+<description> Ogden NB at Colonial</description>
+</Placemark>
+<Placemark>
+<name>27482</name>
+<description> Williamson SB at 10th</description>
+</Placemark>
+<Placemark>
+<name>27654</name>
+<description> Bullitt EB at 10th</description>
+</Placemark>
+<Placemark>
+<name>26876</name>
+<description> Hollins NB at Missouri</description>
+</Placemark>
+<Placemark>
+<name>27181</name>
+<description> Electric NB at Lancing</description>
+</Placemark>
+<Placemark>
+<name>27222</name>
+<description> Carlton EB at Fareham</description>
+</Placemark>
+<Placemark>
+<name>27067</name>
+<description> Salem Avenue WB at 5th</description>
+</Placemark>
+<Placemark>
+<name>27370</name>
+<description> Dale EB at 19th</description>
+</Placemark>
+<Placemark>
+<name>27374</name>
+<description> Virginia EB at Glade (Tinker Creek)</description>
+</Placemark>
+<Placemark>
+<name>27264</name>
+<description> Brambleton NB at Welch</description>
+</Placemark>
+<Placemark>
+<name>27633</name>
+<description> Campbell Court</description>
+</Placemark>
+<Placemark>
+<name>26769</name>
+<description> Rugby WB at 12th</description>
+</Placemark>
+<Placemark>
+<name>26766</name>
+<description> 10th NB at Orange</description>
+</Placemark>
+<Placemark>
+<name>27158</name>
+<description> East Main WB at Pinehurst</description>
+</Placemark>
+<Placemark>
+<name>26908</name>
+<description> 9th SB at Morehead</description>
+</Placemark>
+<Placemark>
+<name>27044</name>
+<description> Memorial WB at Brunswick</description>
+</Placemark>
+<Placemark>
+<name>27156</name>
+<description> Routt SB at Cove</description>
+</Placemark>
+<Placemark>
+<name>27283</name>
+<description> Colonial NB at Clearfield</description>
+</Placemark>
+<Placemark>
+<name>26996</name>
+<description> Brambleton SB at Shenandoah Life</description>
+</Placemark>
+<Placemark>
+<name>27090</name>
+<description> Shenandoah WB at Old Spanish Trail</description>
+</Placemark>
+<Placemark>
+<name>28210</name>
+<description> Apperson EB at Yorkshire</description>
+</Placemark>
+<Placemark>
+<name>26787</name>
+<description> Williamson NB at Rutherford</description>
+</Placemark>
+<Placemark>
+<name>27524</name>
+<description> Greenland SB at Cumberland</description>
+</Placemark>
+<Placemark>
+<name>27241</name>
+<description> Patterson WB at 18th</description>
+</Placemark>
+<Placemark>
+<name>27337</name>
+<description> Jamison WB at 6th St</description>
+</Placemark>
+<Placemark>
+<name>27481</name>
+<description> Williamson NB at Fugate</description>
+</Placemark>
+<Placemark>
+<name>26810</name>
+<description> Wise EB at 16th</description>
+</Placemark>
+<Placemark>
+<name>26860</name>
+<description> Greenland NB at Maycrest</description>
+</Placemark>
+<Placemark>
+<name>26790</name>
+<description> Williamson NB at Sycamore</description>
+</Placemark>
+<Placemark>
+<name>27094</name>
+<description> 9th SB at Centre</description>
+</Placemark>
+<Placemark>
+<name>27551</name>
+<description> Staunton EB at 25th</description>
+</Placemark>
+<Placemark>
+<name>26780</name>
+<description> Cove SB at Hershberger (Roanoke Firearms)</description>
+</Placemark>
+<Placemark>
+<name>27489</name>
+<description> Harrison WB at 2nd</description>
+</Placemark>
+<Placemark>
+<name>26942</name>
+<description> Belleview SB at Walnut</description>
+</Placemark>
+<Placemark>
+<name>27564</name>
+<description> Moorman EB at 7th</description>
+</Placemark>
+<Placemark>
+<name>26804</name>
+<description> Hershberger EB at Eden</description>
+</Placemark>
+<Placemark>
+<name>27027</name>
+<description> Brandon WB at Avon</description>
+</Placemark>
+<Placemark>
+<name>27593</name>
+<description> Melrose EB at Gun Club</description>
+</Placemark>
+<Placemark>
+<name>27424</name>
+<description> Wise WB at Indian Village</description>
+</Placemark>
+<Placemark>
+<name>27373</name>
+<description> Virginia WB at Glade (Tinker Creek)</description>
+</Placemark>
+<Placemark>
+<name>26969</name>
+<description> Colonial SB at 220S On-Ramp (The Roanoker)</description>
+</Placemark>
+<Placemark>
+<name>27325</name>
+<description> Franklin SB at Toyota Dealership</description>
+</Placemark>
+<Placemark>
+<name>26761</name>
+<description> Harrison WB at 5th</description>
+</Placemark>
+<Placemark>
+<name>27378</name>
+<description> Virginia WB at 2nd</description>
+</Placemark>
+<Placemark>
+<name>27658</name>
+<description> Antique Mall at Orange and Gus Nicks</description>
+</Placemark>
+<Placemark>
+<name>27261</name>
+<description> Main NB at Summit</description>
+</Placemark>
+<Placemark>
+<name>27580</name>
+<description> Melrose Avenue Goodwill Work Center Building</description>
+</Placemark>
+<Placemark>
+<name>22253</name>
+<description> Senior Center</description>
+</Placemark>
+<Placemark>
+<name>27531</name>
+<description> Hunt EB at Liberty</description>
+</Placemark>
+<Placemark>
+<name>27546</name>
+<description> Staunton EB at 16th</description>
+</Placemark>
+<Placemark>
+<name>26901</name>
+<description> Elm EB at Jefferson (Community Hospital)</description>
+</Placemark>
+<Placemark>
+<name>27004</name>
+<description> Salem Avenue WB at 10th</description>
+</Placemark>
+<Placemark>
+<name>27039</name>
+<description> Patterson WB at 12th</description>
+</Placemark>
+<Placemark>
+<name>27470</name>
+<description> Williamson SB at Rutherford (Roanoke Civic Center)</description>
+</Placemark>
+<Placemark>
+<name>26832</name>
+<description> King SB at Mecca</description>
+</Placemark>
+<Placemark>
+<name>26907</name>
+<description> 9th SB at Pechin</description>
+</Placemark>
+<Placemark>
+<name>27591</name>
+<description> Melrose EB at Monroe</description>
+</Placemark>
+<Placemark>
+<name>27164</name>
+<description> West Main WB at Goodwin</description>
+</Placemark>
+<Placemark>
+<name>26807</name>
+<description> Campbell EB at 8 1/2</description>
+</Placemark>
+<Placemark>
+<name>26859</name>
+<description> Greenland NB at Oakland</description>
+</Placemark>
+<Placemark>
+<name>27354</name>
+<description> Bennington SB at Riverland</description>
+</Placemark>
+<Placemark>
+<name>27657</name>
+<description> Roanoke Memorial Hospital</description>
+</Placemark>
+<Placemark>
+<name>27446</name>
+<description> Hollins SB at Mason Mill</description>
+</Placemark>
+<Placemark>
+<name>26916</name>
+<description> Garden City SB at Hartsook</description>
+</Placemark>
+<Placemark>
+<name>27572</name>
+<description> Melrose EB at 14th</description>
+</Placemark>
+<Placemark>
+<name>758972</name>
+<description> Campbell WB at 3rd</description>
+</Placemark>
+<Placemark>
+<name>27038</name>
+<description> Patterson WB at 10th</description>
+</Placemark>
+<Placemark>
+<name>27632</name>
+<description> Roanoke Blvd EB at Disabled Veterans Store</description>
+</Placemark>
+<Placemark>
+<name>27516</name>
+<description> Grandview SB at Hershberger</description>
+</Placemark>
+<Placemark>
+<name>27575</name>
+<description> Melrose WB at 20th</description>
+</Placemark>
+<Placemark>
+<name>27646</name>
+<description> Grandin NB at Windsor</description>
+</Placemark>
+<Placemark>
+<name>27254</name>
+<description> Franklin NB at Day</description>
+</Placemark>
+<Placemark>
+<name>27605</name>
+<description> Loudon EB at 20th</description>
+</Placemark>
+<Placemark>
+<name>27398</name>
+<description> Washington WB at Poplar</description>
+</Placemark>
+<Placemark>
+<name>27461</name>
+<description> Hershberger EB at Plantation (Skate Center)</description>
+</Placemark>
+<Placemark>
+<name>26930</name>
+<description> Montrose WB at 13th</description>
+</Placemark>
+<Placemark>
+<name>27049</name>
+<description> Mountain View WB at Mountain View Terrace Apartments</description>
+</Placemark>
+<Placemark>
+<name>26973</name>
+<description> Colonial SB at Pasley</description>
+</Placemark>
+<Placemark>
+<name>27451</name>
+<description> Hollins SB at Riley</description>
+</Placemark>
+<Placemark>
+<name>27616</name>
+<description> Shenandoah EB at Westside (Convenience Store)</description>
+</Placemark>
+<Placemark>
+<name>27457</name>
+<description> Plantation NB at Frontier</description>
+</Placemark>
+<Placemark>
+<name>27115</name>
+<description> Melrose WB at Comer</description>
+</Placemark>
+<Placemark>
+<name>27348</name>
+<description> Garden City NB at Findlay</description>
+</Placemark>
+<Placemark>
+<name>27597</name>
+<description> Melrose EB at Dalewood</description>
+</Placemark>
+<Placemark>
+<name>27619</name>
+<description> Westwood NB at Shenandoah</description>
+</Placemark>
+<Placemark>
+<name>26944</name>
+<description> Belleview SB at Reserve (Roanoke Memorial Hospital)</description>
+</Placemark>
+<Placemark>
+<name>27526</name>
+<description> 10th SB at Courtland</description>
+</Placemark>
+<Placemark>
+<name>27288</name>
+<description> Colonial NB at Pasley</description>
+</Placemark>
+<Placemark>
+<name>22221</name>
+<description> Alleghany St. &amp; E. Fir St.</description>
+</Placemark>
+<Placemark>
+<name>26814</name>
+<description> Hershberger WB at Ordway (U-haul)</description>
+</Placemark>
+<Placemark>
+<name>26849</name>
+<description> Gainsboro NB at Madison</description>
+</Placemark>
+<Placemark>
+<name>27110</name>
+<description> Melrose WB near Country Club (ABC Store)</description>
+</Placemark>
+<Placemark>
+<name>27183</name>
+<description> Roanoke Blvd EB at General Electric</description>
+</Placemark>
+<Placemark>
+<name>26890</name>
+<description> Hershberger WB at Williamson (Radio Shack)</description>
+</Placemark>
+<Placemark>
+<name>26929</name>
+<description> 13th NB at Tayloe</description>
+</Placemark>
+<Placemark>
+<name>27102</name>
+<description> Melrose WB at 12th</description>
+</Placemark>
+<Placemark>
+<name>27130</name>
+<description> Staunton WB at 22nd</description>
+</Placemark>
+<Placemark>
+<name>22218</name>
+<description> Iron Gate - Town Hall</description>
+</Placemark>
+<Placemark>
+<name>26887</name>
+<description> Hershberger WB at Bluebell (Friendship Manor)</description>
+</Placemark>
+<Placemark>
+<name>27356</name>
+<description> Bennington SB at Riverdale</description>
+</Placemark>
+<Placemark>
+<name>22192</name>
+<description> Farmers Market</description>
+</Placemark>
+<Placemark>
+<name>27413</name>
+<description> Orange EB at King (Law office)</description>
+</Placemark>
+<Placemark>
+<name>27417</name>
+<description> Gus Nicks NB at Eastern</description>
+</Placemark>
+<Placemark>
+<name>27570</name>
+<description> 11th SB at Moorman</description>
+</Placemark>
+<Placemark>
+<name>27293</name>
+<description> Ogden NB at Honeywood/Windward (Honeywood Apartments)</description>
+</Placemark>
+<Placemark>
+<name>26822</name>
+<description> 8th NB at Dale</description>
+</Placemark>
+<Placemark>
+<name>26819</name>
+<description> Rutgers SB at K&amp;W</description>
+</Placemark>
+<Placemark>
+<name>27426</name>
+<description> Wise WB at 16th</description>
+</Placemark>
+<Placemark>
+<name>27548</name>
+<description> Staunton EB at 20th</description>
+</Placemark>
+<Placemark>
+<name>26812</name>
+<description> Wise EB at Indian Village</description>
+</Placemark>
+<Placemark>
+<name>26992</name>
+<description> Brambleton SB at Brandon</description>
+</Placemark>
+<Placemark>
+<name>26994</name>
+<description> Brambleton SB at Overland</description>
+</Placemark>
+<Placemark>
+<name>26867</name>
+<description> Marr EB at Rutgers</description>
+</Placemark>
+<Placemark>
+<name>22199</name>
+<description> Campbell Court</description>
+</Placemark>
+<Placemark>
+<name>22266</name>
+<description> Covington Public Library </description>
+</Placemark>
+<Placemark>
+<name>26958</name>
+<description> 2nd SB at Campbell</description>
+</Placemark>
+<Placemark>
+<name>27596</name>
+<description> Melrose EB at Conehurst</description>
+</Placemark>
+<Placemark>
+<name>758722</name>
+<description> Apperson EB at Dillard (Old Salem Mercantile)</description>
+</Placemark>
+<Placemark>
+<name>26987</name>
+<description> Brandon EB at Malcolm</description>
+</Placemark>
+<Placemark>
+<name>27096</name>
+<description> Centre EB at 5th</description>
+</Placemark>
+<Placemark>
+<name>27052</name>
+<description> Edgewood SB at Westover</description>
+</Placemark>
+<Placemark>
+<name>26900</name>
+<description> Jefferson SB at Bullitt</description>
+</Placemark>
+<Placemark>
+<name>27009</name>
+<description> 18th SB at Patterson</description>
+</Placemark>
+<Placemark>
+<name>27271</name>
+<description> Fleetwood NB at Ashby</description>
+</Placemark>
+<Placemark>
+<name>22214</name>
+<description> Scott Hill Apts</description>
+</Placemark>
+<Placemark>
+<name>26794</name>
+<description> Williamson SB at Lyndhurst</description>
+</Placemark>
+<Placemark>
+<name>26991</name>
+<description> Brandon WB at Malcolm</description>
+</Placemark>
+<Placemark>
+<name>27114</name>
+<description> Melrose WB at Van Buren</description>
+</Placemark>
+<Placemark>
+<name>27300</name>
+<description> Walnut WB at Jefferson</description>
+</Placemark>
+<Placemark>
+<name>27621</name>
+<description> Westwood NB at Fairview Elementary (and Greenvale School)</description>
+</Placemark>
+<Placemark>
+<name>26906</name>
+<description> 9th SB at Montrose</description>
+</Placemark>
+<Placemark>
+<name>27648</name>
+<description> Airport SB at Nelms</description>
+</Placemark>
+<Placemark>
+<name>27503</name>
+<description> Cove SB at Abbott</description>
+</Placemark>
+<Placemark>
+<name>27530</name>
+<description> Hunt WB at Liberty</description>
+</Placemark>
+<Placemark>
+<name>27151</name>
+<description> Peters Creek NB at Appleton</description>
+</Placemark>
+<Placemark>
+<name>26783</name>
+<description> Valley View Road SB at Main Stay Hotel</description>
+</Placemark>
+<Placemark>
+<name>27213</name>
+<description> Chesterfield SB at Berkley</description>
+</Placemark>
+<Placemark>
+<name>28205</name>
+<description> West Main EB at Broad</description>
+</Placemark>
+<Placemark>
+<name>27195</name>
+<description> East Main EB at Parkdale</description>
+</Placemark>
+<Placemark>
+<name>27248</name>
+<description> Grandin NB at Memorial (Grandin Theatre)</description>
+</Placemark>
+<Placemark>
+<name>27462</name>
+<description> Hershberger EB at Friends (Friendship Manor)</description>
+</Placemark>
+<Placemark>
+<name>27754</name>
+<description> Jefferson SB at Reserve</description>
+</Placemark>
+<Placemark>
+<name>26935</name>
+<description> 11th SB at Montrose</description>
+</Placemark>
+<Placemark>
+<name>27289</name>
+<description> Colonial NB at Wright</description>
+</Placemark>
+<Placemark>
+<name>26905</name>
+<description> 9th SB at Highland</description>
+</Placemark>
+<Placemark>
+<name>27529</name>
+<description> Hunt EB at 8th</description>
+</Placemark>
+<Placemark>
+<name>27536</name>
+<description> Gilmer EB at 2nd</description>
+</Placemark>
+<Placemark>
+<name>22191</name>
+<description> Eagle Cinema</description>
+</Placemark>
+<Placemark>
+<name>26861</name>
+<description> Greenland SB at Avalon</description>
+</Placemark>
+<Placemark>
+<name>27024</name>
+<description> Grandin SB at Windsor</description>
+</Placemark>
+<Placemark>
+<name>27007</name>
+<description> Salem Avenue WB at 16th</description>
+</Placemark>
+<Placemark>
+<name>27582</name>
+<description> Melrose EB at Palmetto</description>
+</Placemark>
+<Placemark>
+<name>27121</name>
+<description> Orange WB at 3 1/2 Street</description>
+</Placemark>
+<Placemark>
+<name>27284</name>
+<description> Colonial NB at Overland (VWCC Parking Lot)</description>
+</Placemark>
+<Placemark>
+<name>27286</name>
+<description> Colonial SB at VWCC Pedestrian Overpass</description>
+</Placemark>
+<Placemark>
+<name>27663</name>
+<description> East Main WB at Brand</description>
+</Placemark>
+<Placemark>
+<name>26933</name>
+<description> Vernon NB at Kenwood</description>
+</Placemark>
+<Placemark>
+<name>27492</name>
+<description> McDowell WB at 6th (Blue Ridge Behavioral Health)</description>
+</Placemark>
+<Placemark>
+<name>27175</name>
+<description> Roanoke Blvd WB at Idaho/Roanoke (Carolina Forest Apts)</description>
+</Placemark>
+<Placemark>
+<name>27022</name>
+<description> Grandin SB at Memorial (Natural Foods Co-op)</description>
+</Placemark>
+<Placemark>
+<name>27429</name>
+<description> Campbell WB at 7th</description>
+</Placemark>
+<Placemark>
+<name>27659</name>
+<description> Seibel SB at Nicholas</description>
+</Placemark>
+<Placemark>
+<name>28204</name>
+<description> West Main EB at Chestnut/Lewis</description>
+</Placemark>
+<Placemark>
+<name>26768</name>
+<description> Rugby WB at 10th</description>
+</Placemark>
+<Placemark>
+<name>27233</name>
+<description> Brandon EB at ITT Technical Institute</description>
+</Placemark>
+<Placemark>
+<name>27296</name>
+<description> Jefferson NB at Bullitt (Main Library)</description>
+</Placemark>
+<Placemark>
+<name>27515</name>
+<description> Valley View Mall SB at Sears</description>
+</Placemark>
+<Placemark>
+<name>26960</name>
+<description> 2nd SB at Franklin</description>
+</Placemark>
+<Placemark>
+<name>27629</name>
+<description> Lake Drive Plaza Big Lots (Hardy Road)</description>
+</Placemark>
+<Placemark>
+<name>22269</name>
+<description> SVU Pavilion </description>
+</Placemark>
+<Placemark>
+<name>27235</name>
+<description> Braeburn WB at Braeburn (Chateau Riviere Apts)</description>
+</Placemark>
+<Placemark>
+<name>27273</name>
+<description> Franklin NB at Highland</description>
+</Placemark>
+<Placemark>
+<name>27476</name>
+<description> Williamson SB at Laconia</description>
+</Placemark>
+<Placemark>
+<name>26818</name>
+<description> Crossroads Shopping Center Driveway WB at Rutgers</description>
+</Placemark>
+<Placemark>
+<name>27397</name>
+<description> Washington WB at Pollard</description>
+</Placemark>
+<Placemark>
+<name>26889</name>
+<description> Hershberger WB at Hubert/Winsloe</description>
+</Placemark>
+<Placemark>
+<name>27051</name>
+<description> Fauquier SB at Memorial</description>
+</Placemark>
+<Placemark>
+<name>27268</name>
+<description> Brambleton NB at Rosewood</description>
+</Placemark>
+<Placemark>
+<name>26858</name>
+<description> Greenland NB at Cumberland</description>
+</Placemark>
+<Placemark>
+<name>27093</name>
+<description> VA Hospital Private Road Stop 2</description>
+</Placemark>
+<Placemark>
+<name>26836</name>
+<description> Washington EB at Pollard</description>
+</Placemark>
+<Placemark>
+<name>27277</name>
+<description> Franklin NB at Edinburgh (River&#39;s Edge Sports Complex)</description>
+</Placemark>
+<Placemark>
+<name>27415</name>
+<description> Orange EB east of 24th (at BP station)</description>
+</Placemark>
+<Placemark>
+<name>27402</name>
+<description> Washington WB at Mitchell</description>
+</Placemark>
+<Placemark>
+<name>27523</name>
+<description> Greenland SB at Oakland</description>
+</Placemark>
+<Placemark>
+<name>26795</name>
+<description> Williamson NB at 10th</description>
+</Placemark>
+<Placemark>
+<name>27227</name>
+<description> Edgewood NB at Brandon (Family Dollar)</description>
+</Placemark>
+<Placemark>
+<name>27488</name>
+<description> Williamson SB at Maplelawn</description>
+</Placemark>
+<Placemark>
+<name>27197</name>
+<description> 4th Street WB at Delaware</description>
+</Placemark>
+<Placemark>
+<name>26911</name>
+<description> Riverland EB at Garden City</description>
+</Placemark>
+<Placemark>
+<name>27509</name>
+<description> Ferncliff NB at Ferncliff Apartments</description>
+</Placemark>
+<Placemark>
+<name>27191</name>
+<description> College NB at East Main</description>
+</Placemark>
+<Placemark>
+<name>27478</name>
+<description> Williamson SB at Bowman (NY Deli)</description>
+</Placemark>
+<Placemark>
+<name>27214</name>
+<description> Mountain View EB at Bridge</description>
+</Placemark>
+<Placemark>
+<name>27361</name>
+<description> Highland EB at 13th</description>
+</Placemark>
+<Placemark>
+<name>27085</name>
+<description> Old Stevens NB at Rolling Hill</description>
+</Placemark>
+<Placemark>
+<name>26971</name>
+<description> Colonial SB at Broadway (Colonial Hills Office Building)</description>
+</Placemark>
+<Placemark>
+<name>27499</name>
+<description> 19th NB at Andrews</description>
+</Placemark>
+<Placemark>
+<name>27302</name>
+<description> Jefferson NB at Reid</description>
+</Placemark>
+<Placemark>
+<name>27469</name>
+<description> 2nd NB at Salem</description>
+</Placemark>
+<Placemark>
+<name>27013</name>
+<description> 13th SB at Campbell</description>
+</Placemark>
+<Placemark>
+<name>27220</name>
+<description> Malvern NB at Edgewood</description>
+</Placemark>
+<Placemark>
+<name>27739</name>
+<description> Lees Chapel </description>
+</Placemark>
+<Placemark>
+<name>26949</name>
+<description> Franklin NB at Toyota Dealership (Burger King)</description>
+</Placemark>
+<Placemark>
+<name>27080</name>
+<description> Salem Turnpike WB at 31st (Structural Steel)</description>
+</Placemark>
+<Placemark>
+<name>27262</name>
+<description> Main NB at Windsor</description>
+</Placemark>
+<Placemark>
+<name>27327</name>
+<description> Franklin SB at Beechwood</description>
+</Placemark>
+<Placemark>
+<name>27070</name>
+<description> 9th NB at Centre</description>
+</Placemark>
+<Placemark>
+<name>27125</name>
+<description> Staunton WB at 12th</description>
+</Placemark>
+<Placemark>
+<name>27239</name>
+<description> Salem Avenue EB at 13th</description>
+</Placemark>
+<Placemark>
+<name>27432</name>
+<description> Tazewell WB at 7th</description>
+</Placemark>
+<Placemark>
+<name>27653</name>
+<description> Bullitt EB at 6th</description>
+</Placemark>
+<Placemark>
+<name>27543</name>
+<description> Staunton EB at 11th</description>
+</Placemark>
+<Placemark>
+<name>27042</name>
+<description> Memorial WB at Winborne</description>
+</Placemark>
+<Placemark>
+<name>27538</name>
+<description> Orange EB at 3 1/2 Street</description>
+</Placemark>
+<Placemark>
+<name>26978</name>
+<description> Ogden SB at Honeywood/Windward (Honeywood Apartments)</description>
+</Placemark>
+<Placemark>
+<name>26874</name>
+<description> Hollins NB at Orange (Car Wash)</description>
+</Placemark>
+<Placemark>
+<name>27010</name>
+<description> Patterson EB at 16th</description>
+</Placemark>
+<Placemark>
+<name>27101</name>
+<description> Moorman WB at 10th</description>
+</Placemark>
+<Placemark>
+<name>27329</name>
+<description> Franklin SB at Avenham</description>
+</Placemark>
+<Placemark>
+<name>27562</name>
+<description> Gilmer EB at 4th</description>
+</Placemark>
+<Placemark>
+<name>27335</name>
+<description> Franklin NB at Townside Festival Shopping Center (Dunkin Donuts)</description>
+</Placemark>
+<Placemark>
+<name>27155</name>
+<description> Cove SB at Ranch</description>
+</Placemark>
+<Placemark>
+<name>27238</name>
+<description> Salem Avenue EB at 10th</description>
+</Placemark>
+<Placemark>
+<name>27390</name>
+<description> Washington EB at Mitchell</description>
+</Placemark>
+<Placemark>
+<name>27521</name>
+<description> Huff NB at Floraland</description>
+</Placemark>
+<Placemark>
+<name>28195</name>
+<description> East Main WB at Lakeside Plaza (Goodwill)</description>
+</Placemark>
+<Placemark>
+<name>27034</name>
+<description> Church WB at 4th</description>
+</Placemark>
+<Placemark>
+<name>27069</name>
+<description> Shenandoah WB at 8th</description>
+</Placemark>
+<Placemark>
+<name>27167</name>
+<description> West Main EB at Valleydale (Sonic)</description>
+</Placemark>
+<Placemark>
+<name>22249</name>
+<description> 36th St.</description>
+</Placemark>
+<Placemark>
+<name>27282</name>
+<description> Colonial NB at Broadway (Colonial Hills Office Building)</description>
+</Placemark>
+<Placemark>
+<name>26904</name>
+<description> Bullitt EB at 9th</description>
+</Placemark>
+<Placemark>
+<name>27396</name>
+<description> Gus Nicks NB at Madison</description>
+</Placemark>
+<Placemark>
+<name>27560</name>
+<description> Florida NB at Golfside</description>
+</Placemark>
+<Placemark>
+<name>27353</name>
+<description> Riverland Road IGA Super Save Grocery Store</description>
+</Placemark>
+<Placemark>
+<name>27485</name>
+<description> Williamson SB at Truman</description>
+</Placemark>
+<Placemark>
+<name>27627</name>
+<description> Gainsboro SB at Wells</description>
+</Placemark>
+<Placemark>
+<name>22177</name>
+<description> Williow Spring Rd.</description>
+</Placemark>
+<Placemark>
+<name>26962</name>
+<description> Franklin SB at Highland</description>
+</Placemark>
+<Placemark>
+<name>27437</name>
+<description> Jamison WB at 10th</description>
+</Placemark>
+<Placemark>
+<name>26981</name>
+<description> Elm WB at 5th</description>
+</Placemark>
+<Placemark>
+<name>27073</name>
+<description> Loudon WB at 14th</description>
+</Placemark>
+<Placemark>
+<name>27081</name>
+<description> Westwood NB at Salem Turnpike</description>
+</Placemark>
+<Placemark>
+<name>27561</name>
+<description> Cove SB at Willow Walk</description>
+</Placemark>
+<Placemark>
+<name>22184</name>
+<description> Preston Street</description>
+</Placemark>
+<Placemark>
+<name>27563</name>
+<description> Gilmer EB at 5th</description>
+</Placemark>
+<Placemark>
+<name>26823</name>
+<description> Dale NB at 6th</description>
+</Placemark>
+<Placemark>
+<name>26846</name>
+<description> Cleveland WB at S. Pollard</description>
+</Placemark>
+<Placemark>
+<name>27297</name>
+<description> Elm WB at Jefferson</description>
+</Placemark>
+<Placemark>
+<name>26990</name>
+<description> Brandon WB at Windsor (Little Ceasar&#39;s)</description>
+</Placemark>
+<Placemark>
+<name>27431</name>
+<description> Tazewell EB at 7th</description>
+</Placemark>
+<Placemark>
+<name>27308</name>
+<description> 26th EB at Jefferson</description>
+</Placemark>
+<Placemark>
+<name>27440</name>
+<description> Kimball SB at 4th</description>
+</Placemark>
+<Placemark>
+<name>26772</name>
+<description> Rugby WB at 16th</description>
+</Placemark>
+<Placemark>
+<name>27029</name>
+<description> Carlton SB at Avenel</description>
+</Placemark>
+<Placemark>
+<name>27317</name>
+<description> Avenham NB at Audubon</description>
+</Placemark>
+<Placemark>
+<name>26948</name>
+<description> Broadway WB at Stephenson</description>
+</Placemark>
+<Placemark>
+<name>27452</name>
+<description> Hollins WB near RR Bridge</description>
+</Placemark>
+<Placemark>
+<name>22244</name>
+<description> Food Lion</description>
+</Placemark>
+<Placemark>
+<name>27232</name>
+<description> Brandon EB at Gale</description>
+</Placemark>
+<Placemark>
+<name>27028</name>
+<description> Brandon EB at Carlton</description>
+</Placemark>
+<Placemark>
+<name>27129</name>
+<description> Staunton WB at 20th</description>
+</Placemark>
+<Placemark>
+<name>27142</name>
+<description> Cove NB at Guildhall</description>
+</Placemark>
+<Placemark>
+<name>27119</name>
+<description> Melrose WB at Bellevue</description>
+</Placemark>
+<Placemark>
+<name>27650</name>
+<description> Crossroads Shopping Center Driveway WB at Firestone</description>
+</Placemark>
+<Placemark>
+<name>27756</name>
+<description> Crystal Spring NB at McClanahan</description>
+</Placemark>
+<Placemark>
+<name>26862</name>
+<description> Floraland WB at Huff</description>
+</Placemark>
+<Placemark>
+<name>27003</name>
+<description> Salem Avenue WB at 8th</description>
+</Placemark>
+<Placemark>
+<name>27352</name>
+<description> Bennington Street Food Lion Driveway at Rutrough</description>
+</Placemark>
+<Placemark>
+<name>26830</name>
+<description> King SB at Glade Creek</description>
+</Placemark>
+<Placemark>
+<name>26803</name>
+<description> Towne Square Kroger</description>
+</Placemark>
+<Placemark>
+<name>27301</name>
+<description> Jefferson NB at Albemarle</description>
+</Placemark>
+<Placemark>
+<name>27079</name>
+<description> Salem Turnpike WB at Delta</description>
+</Placemark>
+<Placemark>
+<name>27134</name>
+<description> Lafayette SB at Massachusetts</description>
+</Placemark>
+<Placemark>
+<name>27486</name>
+<description> Williamson SB at Preston</description>
+</Placemark>
+<Placemark>
+<name>27234</name>
+<description> Keagy NB at Apperson (McDonalds)</description>
+</Placemark>
+<Placemark>
+<name>27525</name>
+<description> Greenland SB at 10th</description>
+</Placemark>
+<Placemark>
+<name>27332</name>
+<description> Electric SB at Elm View (Grand Pavilion)</description>
+</Placemark>
+<Placemark>
+<name>27558</name>
+<description> Forest Park NB at Fresno</description>
+</Placemark>
+<Placemark>
+<name>27122</name>
+<description> Orange WB at 5th</description>
+</Placemark>
+<Placemark>
+<name>27569</name>
+<description> Moorman WB at 11th</description>
+</Placemark>
+<Placemark>
+<name>27611</name>
+<description> Salem Turnpike EB at 31st (Structural Steel)</description>
+</Placemark>
+<Placemark>
+<name>22182</name>
+<description> Food Pantry</description>
+</Placemark>
+<Placemark>
+<name>27245</name>
+<description> Maiden WB at Bluemont</description>
+</Placemark>
+<Placemark>
+<name>27046</name>
+<description> Chesterfield NB at Berkley</description>
+</Placemark>
+<Placemark>
+<name>22252</name>
+<description> SVU Pavilion </description>
+</Placemark>
+<Placemark>
+<name>27505</name>
+<description> Cove NB at Hershberger (Roanoke Firearms)</description>
+</Placemark>
+<Placemark>
+<name>27275</name>
+<description> Franklin NB at Woods</description>
+</Placemark>
+<Placemark>
+<name>27518</name>
+<description> Grandview SB at Edinburgh</description>
+</Placemark>
+<Placemark>
+<name>27533</name>
+<description> Burrell SB at Whitten</description>
+</Placemark>
+<Placemark>
+<name>27243</name>
+<description> Patterson WB at 16th</description>
+</Placemark>
+<Placemark>
+<name>27242</name>
+<description> 18th NB at Salem</description>
+</Placemark>
+<Placemark>
+<name>27586</name>
+<description> Melrose EB near Country Club (opposite ABC store)</description>
+</Placemark>
+<Placemark>
+<name>27372</name>
+<description> Dale WB at Fallon Park</description>
+</Placemark>
+<Placemark>
+<name>27071</name>
+<description> Loudon WB at 10th</description>
+</Placemark>
+<Placemark>
+<name>27573</name>
+<description> Melrose EB at 16th</description>
+</Placemark>
+<Placemark>
+<name>27744</name>
+<description> Exit 118 Park and Ride</description>
+</Placemark>
+<Placemark>
+<name>22212</name>
+<description> Richmond St. - Selma </description>
+</Placemark>
+<Placemark>
+<name>26826</name>
+<description> Gus Nicks SB at Eastern</description>
+</Placemark>
+<Placemark>
+<name>26955</name>
+<description> Franklin SB at 220N On-Ramp (BP station)</description>
+</Placemark>
+<Placemark>
+<name>27087</name>
+<description> Troutland WB at Westside</description>
+</Placemark>
+<Placemark>
+<name>27585</name>
+<description> Melrose EB at Old Country Club (Burger King)</description>
+</Placemark>
+<Placemark>
+<name>22185</name>
+<description> E. Nelson Street</description>
+</Placemark>
+<Placemark>
+<name>27287</name>
+<description> Colonial NB at Winding Way</description>
+</Placemark>
+<Placemark>
+<name>27393</name>
+<description> Dunkirk SB at Gus Nicks</description>
+</Placemark>
+<Placemark>
+<name>27450</name>
+<description> Hollins SB at Old Mountain</description>
+</Placemark>
+<Placemark>
+<name>27483</name>
+<description> Williamson SB at Oakland</description>
+</Placemark>
+<Placemark>
+<name>26851</name>
+<description> Burrell NB at Whitten</description>
+</Placemark>
+<Placemark>
+<name>27745</name>
+<description> Christiansburg Kmart</description>
+</Placemark>
+<Placemark>
+<name>26788</name>
+<description> Williamson NB at Carver (Little Chef)</description>
+</Placemark>
+<Placemark>
+<name>26999</name>
+<description> Brambleton SB at Ashby</description>
+</Placemark>
+<Placemark>
+<name>27449</name>
+<description> Hollins NB at Pearl</description>
+</Placemark>
+<Placemark>
+<name>27144</name>
+<description> Hershberger WB at Fairhope</description>
+</Placemark>
+<Placemark>
+<name>27665</name>
+<description> Rugby EB at 10th</description>
+</Placemark>
+<Placemark>
+<name>27748</name>
+<description> Downtown Market </description>
+</Placemark>
+<Placemark>
+<name>26767</name>
+<description> 10th NB at Staunton</description>
+</Placemark>
+<Placemark>
+<name>26918</name>
+<description> Garden City SB at Gearhart</description>
+</Placemark>
+<Placemark>
+<name>26868</name>
+<description> Hershberger WB at Rutgers (Appliance Store)</description>
+</Placemark>
+<Placemark>
+<name>27036</name>
+<description> Campbell EB at 5th</description>
+</Placemark>
+<Placemark>
+<name>26879</name>
+<description> Hollins NB at Norton</description>
+</Placemark>
+<Placemark>
+<name>26956</name>
+<description> Tanglewood Mall at Kroger</description>
+</Placemark>
+<Placemark>
+<name>27351</name>
+<description> Garden City NB at Davenport/Ivywood</description>
+</Placemark>
+<Placemark>
+<name>26785</name>
+<description> Valley View Road SB at Pier 1 Imports</description>
+</Placemark>
+<Placemark>
+<name>26877</name>
+<description> Hollins NB at Mason Mill</description>
+</Placemark>
+<Placemark>
+<name>27223</name>
+<description> Derwent EB at Langdon</description>
+</Placemark>
+<Placemark>
+<name>760906</name>
+<description> Colonial SB at Towers Shopping Center</description>
+</Placemark>
+<Placemark>
+<name>26899</name>
+<description> Jefferson SB at Luck</description>
+</Placemark>
+<Placemark>
+<name>27391</name>
+<description> Washington EB at Blair</description>
+</Placemark>
+<Placemark>
+<name>27628</name>
+<description> Gainsboro SB at Patton</description>
+</Placemark>
+<Placemark>
+<name>27743</name>
+<description> Exit 140 Park and Ride</description>
+</Placemark>
+<Placemark>
+<name>27058</name>
+<description> Brandon WB at Westland</description>
+</Placemark>
+<Placemark>
+<name>27343</name>
+<description> 9th NB at Pechin</description>
+</Placemark>
+<Placemark>
+<name>26813</name>
+<description> Ferncliff NB at Hoback</description>
+</Placemark>
+<Placemark>
+<name>27113</name>
+<description> Melrose WB at Westside</description>
+</Placemark>
+<Placemark>
+<name>27265</name>
+<description> Brambleton NB at Overland</description>
+</Placemark>
+<Placemark>
+<name>22173</name>
+<description> Cameron Hall</description>
+</Placemark>
+<Placemark>
+<name>27221</name>
+<description> Derwent WB at Langdon</description>
+</Placemark>
+<Placemark>
+<name>27364</name>
+<description> 14th NB at Kenwood</description>
+</Placemark>
+<Placemark>
+<name>26951</name>
+<description> Franklin NB at Transmission America</description>
+</Placemark>
+<Placemark>
+<name>28212</name>
+<description> Apperson EB at Riverview</description>
+</Placemark>
+<Placemark>
+<name>27274</name>
+<description> Franklin NB at Walnut</description>
+</Placemark>
+<Placemark>
+<name>27315</name>
+<description> Avenham NB at 28th</description>
+</Placemark>
+<Placemark>
+<name>27202</name>
+<description> Campbell WB at 5th</description>
+</Placemark>
+<Placemark>
+<name>26800</name>
+<description> Williamson NB at Frontier</description>
+</Placemark>
+<Placemark>
+<name>27472</name>
+<description> Williamson SB at Sycamore</description>
+</Placemark>
+<Placemark>
+<name>27347</name>
+<description> Garden City NB at Thomason</description>
+</Placemark>
+<Placemark>
+<name>28191</name>
+<description> Salem Walmart Parking Lot</description>
+</Placemark>
+<Placemark>
+<name>26845</name>
+<description> Cleveland WB at S. Blair</description>
+</Placemark>
+<Placemark>
+<name>27247</name>
+<description> Denniston SB at Hampton</description>
+</Placemark>
+<Placemark>
+<name>27439</name>
+<description> Williamson SB at Wells (Hotel Roanoke)</description>
+</Placemark>
+<Placemark>
+<name>27579</name>
+<description> Melrose WB at Lafayette (opposite Goodwill)</description>
+</Placemark>
+<Placemark>
+<name>26921</name>
+<description> New Spring Branch SB at Baltimore</description>
+</Placemark>
+<Placemark>
+<name>27185</name>
+<description> Roanoke Blvd WB at McDivitt (East Salem Elementary)</description>
+</Placemark>
+<Placemark>
+<name>27512</name>
+<description> Hoback SB at Big Lots parking lot</description>
+</Placemark>
+<Placemark>
+<name>22229</name>
+<description> Wal-Mart</description>
+</Placemark>
+<Placemark>
+<name>27576</name>
+<description> Melrose EB at 20th</description>
+</Placemark>
+<Placemark>
+<name>26771</name>
+<description> Rugby EB at 16th</description>
+</Placemark>
+<Placemark>
+<name>27371</name>
+<description> Dale EB at Fallon Park (Shopping Center)</description>
+</Placemark>
+<Placemark>
+<name>27753</name>
+<description> Jefferson SB at Williamson</description>
+</Placemark>
+<Placemark>
+<name>27021</name>
+<description> Denniston NB at Hampton</description>
+</Placemark>
+<Placemark>
+<name>26909</name>
+<description> 9th SB at Buena Vista (7-11)</description>
+</Placemark>
+<Placemark>
+<name>27040</name>
+<description> Memorial WB at Wasena</description>
+</Placemark>
+<Placemark>
+<name>27359</name>
+<description> Highland EB at 12th</description>
+</Placemark>
+<Placemark>
+<name>26863</name>
+<description> Floraland WB at Grandview</description>
+</Placemark>
+<Placemark>
+<name>26882</name>
+<description> Hollins EB at Plantation</description>
+</Placemark>
+<Placemark>
+<name>27166</name>
+<description> West Main EB at Mill/Spartan (Sheetz)</description>
+</Placemark>
+<Placemark>
+<name>26980</name>
+<description> Elm WB at 4th</description>
+</Placemark>
+<Placemark>
+<name>27041</name>
+<description> Memorial WB at Oxford</description>
+</Placemark>
+<Placemark>
+<name>27506</name>
+<description> Routt NB at Cove</description>
+</Placemark>
+<Placemark>
+<name>26953</name>
+<description> Franklin SB at Kmart Shopping Center Driveway</description>
+</Placemark>
+<Placemark>
+<name>27480</name>
+<description> Williamson SB at Chatham</description>
+</Placemark>
+<Placemark>
+<name>26775</name>
+<description> Cove SB at Sherman</description>
+</Placemark>
+<Placemark>
+<name>26839</name>
+<description> River Park Shopping Center Super Dollar Grocery Store</description>
+</Placemark>
+<Placemark>
+<name>26762</name>
+<description> McDowell WB at 5th</description>
+</Placemark>
+<Placemark>
+<name>28214</name>
+<description> Roanoke Blvd NB at General Electric</description>
+</Placemark>
+<Placemark>
+<name>27050</name>
+<description> Fauquier SB at Denniston</description>
+</Placemark>
+<Placemark>
+<name>26988</name>
+<description> Brandon EB at 23rd</description>
+</Placemark>
+<Placemark>
+<name>27092</name>
+<description> Roanoke Blvd WB at Reavis (Salem Health)</description>
+</Placemark>
+<Placemark>
+<name>27215</name>
+<description> Mountain View EB at Byrne</description>
+</Placemark>
+<Placemark>
+<name>26773</name>
+<description> Andrews EB at Florida</description>
+</Placemark>
+<Placemark>
+<name>27055</name>
+<description> Fareham SB at Carlton</description>
+</Placemark>
+<Placemark>
+<name>27410</name>
+<description> King NB at Orange</description>
+</Placemark>
+<Placemark>
+<name>27267</name>
+<description> Brambleton NB at Clifford</description>
+</Placemark>
+<Placemark>
+<name>22215</name>
+<description> Clifton Forge - Town Hall</description>
+</Placemark>
+<Placemark>
+<name>27246</name>
+<description> Denniston SB at Maiden</description>
+</Placemark>
+<Placemark>
+<name>26964</name>
+<description> Franklin SB at Woods</description>
+</Placemark>
+<Placemark>
+<name>27496</name>
+<description> Rugby EB at 12th</description>
+</Placemark>
+<Placemark>
+<name>26801</name>
+<description> Williamson NB at Maplelawn</description>
+</Placemark>
+<Placemark>
+<name>781762</name>
+<description> VTCRI</description>
+</Placemark>
+<Placemark>
+<name>27624</name>
+<description> Campbell EB at 3rd</description>
+</Placemark>
+<Placemark>
+<name>22250</name>
+<description> Rockbridge Ave.</description>
+</Placemark>
+<Placemark>
+<name>27603</name>
+<description> Loudon EB at 16th</description>
+</Placemark>
+<Placemark>
+<name>27065</name>
+<description> Keagy SB at Apperson (McDonalds)</description>
+</Placemark>
+<Placemark>
+<name>27064</name>
+<description> Brandon WB at ITT Technical Institute</description>
+</Placemark>
+<Placemark>
+<name>27184</name>
+<description> Roanoke Blvd EB at McDivitt (Arnold R Burton School)</description>
+</Placemark>
+<Placemark>
+<name>26784</name>
+<description> Valley View Road SB at Best Western</description>
+</Placemark>
+<Placemark>
+<name>26922</name>
+<description> New Spring Branch SB at Yellow Mountain</description>
+</Placemark>
+<Placemark>
+<name>27112</name>
+<description> Melrose WB at Fentress</description>
+</Placemark>
+<Placemark>
+<name>27520</name>
+<description> Floraland EB at Grandview</description>
+</Placemark>
+<Placemark>
+<name>28206</name>
+<description> College SB at Calhoun</description>
+</Placemark>
+<Placemark>
+<name>27053</name>
+<description> Edgewood SB at Windsor</description>
+</Placemark>
+<Placemark>
+<name>26927</name>
+<description> Bennington NB at Riverdale</description>
+</Placemark>
+<Placemark>
+<name>27236</name>
+<description> Braeburn EB at Braeburn (Chateau Riviere Apts)</description>
+</Placemark>
+<Placemark>
+<name>26903</name>
+<description> Bullitt WB at 7th</description>
+</Placemark>
+<Placemark>
+<name>27473</name>
+<description> Williamson SB at Compton</description>
+</Placemark>
+<Placemark>
+<name>27664</name>
+<description> East Main EB at McCauley</description>
+</Placemark>
+<Placemark>
+<name>27617</name>
+<description> Shenandoah EB at Cherry Hill</description>
+</Placemark>
+<Placemark>
+<name>27346</name>
+<description> 9th SB at Industry</description>
+</Placemark>
+<Placemark>
+<name>26915</name>
+<description> Garden City NB at Craig Robertson</description>
+</Placemark>
+<Placemark>
+<name>26997</name>
+<description> Brambleton SB at Clifford</description>
+</Placemark>
+<Placemark>
+<name>27147</name>
+<description> Westside SB at Virginia</description>
+</Placemark>
+<Placemark>
+<name>28202</name>
+<description> West Main EB at Maple</description>
+</Placemark>
+<Placemark>
+<name>26880</name>
+<description> Hollins SB at Pearl</description>
+</Placemark>
+<Placemark>
+<name>27587</name>
+<description> Melrose EB at 35th</description>
+</Placemark>
+<Placemark>
+<name>27019</name>
+<description> Wasena SB at Maiden</description>
+</Placemark>
+<Placemark>
+<name>27270</name>
+<description> Brambleton SB at Spring</description>
+</Placemark>
+<Placemark>
+<name>27047</name>
+<description> Mountain View WB at Bridge</description>
+</Placemark>
+<Placemark>
+<name>27545</name>
+<description> Staunton EB at 14th</description>
+</Placemark>
+<Placemark>
+<name>781795</name>
+<description> Blacksburg Municipal Building</description>
+</Placemark>
+<Placemark>
+<name>22228</name>
+<description> W. Jackson St. &amp; Rayon Dr.</description>
+</Placemark>
+<Placemark>
+<name>22213</name>
+<description> Dabney S. Lancaster CC</description>
+</Placemark>
+</Document>
+</kml>
