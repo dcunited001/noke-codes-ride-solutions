@@ -7,7 +7,7 @@ namespace :gtfs do
 
   task :translate do
     url = ENV['GTFS_URL'] || 'http://data.trilliumtransit.com/gtfs/roanoke-va-us/roanoke-va-us.zip'
-    filename = ENV['GTFS_JSON_FILENAME'] || 'transitive-data.json'
+    filename = ENV['GTFS_JSON_FILENAME'] || 'transitiveData.js'
     source = GTFS::Source.build(url, {strict: false})
 
     routes_by_id = source.routes.reduce({}) do |memo, route|
@@ -36,7 +36,7 @@ namespace :gtfs do
       json.patterns source.trips.map(&:to_builder).map(&:attributes!)
     end
 
-    File.open(filename, 'w').write(json)
+    File.open(filename, 'w').write("module.exports = #{json};")
   end
 
 end
