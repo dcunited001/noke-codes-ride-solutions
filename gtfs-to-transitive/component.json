@@ -2,7 +2,8 @@
   "name": "transitive-demo",
   "dependencies": {
     "necolas/normalize.css": "^3.0.2",
-    "conveyal/transitive.js": "^0.7.1"
+    "components/underscore": "^1.7.0",
+    "conveyal/transitive.js": "master"
   },
   "scripts": [
     "transitiveData.js",
