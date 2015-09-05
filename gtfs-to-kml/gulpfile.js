@@ -54,7 +54,7 @@ var notifyConf = {
 var buildFolder = './dist';
 
 gulp.task('html', function() {
-  return gulp.src('app/pages/index.html')
+  return gulp.src('app/pages/**/*.html')
       .pipe(plumber({errorHandler: onError}))
       .pipe(gulp.dest(buildFolder))
       .pipe(notify(_.extend(notifyConf, {message: 'HTML task complete'})));
