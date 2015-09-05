@@ -1,6 +1,6 @@
 angular.module('app', ['ui.router', 'ui.event', 'ui.map'])
 
-    .config(function ($stateProvider, $locationProvider, $UrlRouterProvider) {
+    .config(function ($stateProvider, $locationProvider, $urlRouterProvider) {
 
     })
 
@@ -18,6 +18,6 @@ angular.module('app', ['ui.router', 'ui.event', 'ui.map'])
 
 ;
 
-function onGoogleReady() {
+window.onGoogleReady = function() {
   angular.bootstrap(document.getElementById("map"), ['app.ui-map']);
-}
+};
