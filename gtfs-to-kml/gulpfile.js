@@ -71,7 +71,7 @@ gulp.task('html', function() {
 });
 
 gulp.task('js', function () {
-  return gulp.src([vendorJsFiles, 'app/js/**/*.js'])
+  return gulp.src(vendorJsFiles.concat(['app/js/**/*.js']))
       .pipe(plumber({errorHandler: onError}))
       .pipe(ngAnnotate())
       .pipe(concat('app.js'))
@@ -106,4 +106,15 @@ gulp.task('default', ['clean'], function () {
       'html',
 //      'less',
       'js');
+});
+
+gulp.task('webserver', function () {
+  gulp.src('dist')
+      .pipe(webserver({
+        //livereload: true,
+        host: 'appistack.dev',
+        fallback: 'index.html',
+        port: 8000,
+        open: true
+      }));
 });
