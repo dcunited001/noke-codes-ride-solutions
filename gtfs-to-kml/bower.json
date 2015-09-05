@@ -1,0 +1,14 @@
+{
+  "name": "frontend-gulp",
+  "version": "0.0.1",
+  "main": "css/main.css",
+  "ignore": [
+    ".jshintrc"
+  ],
+  "dependencies": {
+    "angular": "~1.4.3",
+    "angular-ui-event": "~1.0.0",
+    "angular-ui-map": "~0.5.0",
+    "angular-ui-router": "~0.2.x"
+  }
+}
