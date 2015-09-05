@@ -4,5 +4,6 @@ gtfs-to-transitive/build
 gtfs-to-transitive/components
 gtfs-to-kml/node_modules
 gtfs-to-kml/dist
-
+gtfs-to-kml/bower_components
+gtfs-to-kml/.divshot-cache
 
