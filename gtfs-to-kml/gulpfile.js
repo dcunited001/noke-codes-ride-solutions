@@ -3,6 +3,7 @@ var _ = require('underscore'),
     pkg = require('./package.json'),
     concat = require('gulp-concat'),
     notify = require('gulp-notify'),
+    less = require('gulp-less'),
     webserver = require('gulp-webserver'),
     gutil = require('gulp-util'),
     changed = require('gulp-changed'),
@@ -41,9 +42,18 @@ function handleError(level, error) {
 function onError(error) {
   handleError.call(this, 'error', error);
 }
+
 function onWarning(error) {
   handleError.call(this, 'warning', error);
 }
+
+var vendorJsFiles = [
+  "bower_components/angular/angular.js",
+  "bower_components/angular-ui-router/release/angular-ui-router.js",
+  "bower_components/angular-ui-event/dist/event.js",
+  "bower_components/angular-ui-uitls/ui-utils.js",
+  "bower_components/angular-ui-map/ui-map.js"
+];
 
 var notifyConf = {
   title: "Gulp",
@@ -61,10 +71,21 @@ gulp.task('html', function() {
 });
 
 gulp.task('js', function () {
-  return gulp.src('app/js/**/*.js')
+  return gulp.src([vendorJsFiles, 'app/js/**/*.js'])
       .pipe(plumber({errorHandler: onError}))
+      .pipe(ngAnnotate())
       .pipe(concat('app.js'))
-      .pipe(gulp.dest(buildFolder))
+      .pipe(wrap('(function(){ \'use strict\'; <%= contents %> })();'))
+      .pipe(gulp.dest(buildFolder + '/js'))
+      .pipe(notify(_.extend(notifyConf, {message: 'JS task complete'})));
+});
+
+gulp.task('less', function() {
+  return gulp.src('app/less/**/*.less')
+      .pipe(plumber({errorHandler: onError}))
+      .pipe(concat('app.css'))
+      .pipe(less())
+      .pipe(gulp.dest(buildFolder + '/css'))
       .pipe(notify(_.extend(notifyConf, {message: 'JS task complete'})));
 });
 
