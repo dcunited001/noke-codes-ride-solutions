@@ -87,7 +87,7 @@ gulp.task('js', function () {
 gulp.task('less', function() {
   var notifyConfLess = _.extend(notifyConf, {message: 'Less task complete'});
 
-  return gulp.src('app/less/**/*.less')
+  return gulp.src('app/css/**/*.less')
       .pipe(plumber({errorHandler: onError}))
       .pipe(concat('app.css'))
       .pipe(less())
@@ -118,7 +118,7 @@ gulp.task('default', ['clean'], function () {
 gulp.task('webserver', function () {
   gulp.src('dist')
       .pipe(webserver({
-        //livereload: true,
+        livereload: true,
         host: 'appistack.dev',
         fallback: 'index.html',
         port: 8000,
