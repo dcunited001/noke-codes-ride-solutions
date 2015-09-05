@@ -1,0 +1,6 @@
+{
+  "name": "gtfs-to-kml",
+  "root": "dist",
+  "clean_urls": true,
+  "error_page": "error.html"
+}
