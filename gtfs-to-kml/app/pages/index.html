@@ -10,8 +10,13 @@
 </head>
 
 <body>
-  <h2>Chyello Worldz</h2>
+  <h2>GTFS to KML</h2>
 
-  <script type="text/javascript" src="<%= assets_url + app_js %>"></script>
+  <section id="map" ng-controller="MapCtrl" >
+    <div ui-map="myMap" ui-options="mapOptions" class="map-canvas"></div>
+  </section>
+
+  <script type="text/javascript" src="/js/app.js"></script>
+  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&callback=onGoogleReady"></script>
 </body>
 </html>
