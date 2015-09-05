@@ -1,0 +1,11 @@
+require 'bundler'
+Bundler.require
+
+require './gtfs_to_kml'
+
+namespace :gtfs do
+  task :to_kml do
+
+  end
+end
+

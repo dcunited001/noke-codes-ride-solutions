@@ -1,0 +1,22 @@
+{
+  "name": "gtfs-to-kml",
+  "title": "GTFS to KML",
+  "private": true,
+  "devDependencies": {
+    "del": "^1.2.0",
+    "gulp": "^3.9.0",
+    "gulp-changed": "^1.2.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-less": "^3.0.3",
+    "gulp-ng-annotate": "^1.1.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-template": "^3.0.0",
+    "gulp-util": "^3.0.6",
+    "gulp-webserver": "^0.9.1",
+    "gulp-wrap": "^0.11.0",
+    "underscore": "^1.8.3",
+    "underscore.string": "^3.1.1",
+    "yargs": "^3.24.0"
+  }
+}

@@ -2,4 +2,7 @@
 otp-transitive/node_modules
 gtfs-to-transitive/build
 gtfs-to-transitive/components
+gtfs-to-kml/node_modules
+gtfs-to-kml/dist
+
 
