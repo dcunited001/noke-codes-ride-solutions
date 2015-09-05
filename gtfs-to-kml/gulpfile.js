@@ -64,29 +64,35 @@ var notifyConf = {
 var buildFolder = './dist';
 
 gulp.task('html', function() {
+  var notifyConfHtml = _.extend(notifyConf, {message: 'HTML task complete'});
+
   return gulp.src('app/pages/**/*.html')
       .pipe(plumber({errorHandler: onError}))
       .pipe(gulp.dest(buildFolder))
-      .pipe(notify(_.extend(notifyConf, {message: 'HTML task complete'})));
+      .pipe(notify(notifyConfHtml));
 });
 
 gulp.task('js', function () {
+  var notifyConfJs = _.extend(notifyConf, {message: 'JS task complete'});
+
   return gulp.src(vendorJsFiles.concat(['app/js/**/*.js']))
       .pipe(plumber({errorHandler: onError}))
       .pipe(ngAnnotate())
       .pipe(concat('app.js'))
       .pipe(wrap('(function(){ \'use strict\'; <%= contents %> })();'))
       .pipe(gulp.dest(buildFolder + '/js'))
-      .pipe(notify(_.extend(notifyConf, {message: 'JS task complete'})));
+      .pipe(notify(notifyConfJs));
 });
 
 gulp.task('less', function() {
+  var notifyConfLess = _.extend(notifyConf, {message: 'Less task complete'});
+
   return gulp.src('app/less/**/*.less')
       .pipe(plumber({errorHandler: onError}))
       .pipe(concat('app.css'))
       .pipe(less())
       .pipe(gulp.dest(buildFolder + '/css'))
-      .pipe(notify(_.extend(notifyConf, {message: 'JS task complete'})));
+      .pipe(notify(notifyConfLess));
 });
 
 gulp.task('clean', function (cb) {
@@ -98,13 +104,14 @@ gulp.task('clean', function (cb) {
 
 gulp.task('watch', function() {
   gulp.watch('app/js/**/*.js', ['js']);
+  gulp.watch('app/css/**/*.less', ['less']);
   gulp.watch('app/pages/**/*.html', ['html']);
 });
 
 gulp.task('default', ['clean'], function () {
   gulp.start(
       'html',
-//      'less',
+      'less',
       'js');
 });
 
