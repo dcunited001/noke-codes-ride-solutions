@@ -5,6 +5,18 @@ require './gtfs_to_kml'
 
 namespace :gtfs do
   task :to_kml do
+    url = ENV['GTFS_URL'] || 'http://data.trilliumtransit.com/gtfs/roanoke-va-us/roanoke-va-us.zip'
+    kml_dir = ENV['GTFS_KML_DIR'] || 'app/kml/'
+    gtfs = GTFS::Source.build(url, {strict: false})
+
+    points_for_route = gtfs.shapes.keep_if {|s| s.id == '0'}.sort_by(&:pt_sequence)
+    points_for_route.map! {|s|
+      GeoRuby::SimpleFeatures::Point.from_latlong(s.pt_lat, s.pt_lon)
+    }
+
+    route = GeoRuby::SimpleFeatures::LineString.from_points(points_for_route)
+
+    File.open(File.join(kml_dir, 'route.kml'), 'w').write(route.as_kml)
 
   end
 end
