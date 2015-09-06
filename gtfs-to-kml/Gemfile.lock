@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    georuby (2.5.2)
+    gtfs (0.2.4)
+      multi_json
+      rake
+      rubyzip (~> 1.1)
+    multi_json (1.11.2)
+    rake (10.4.2)
+    rubyzip (1.1.7)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  georuby
+  gtfs
